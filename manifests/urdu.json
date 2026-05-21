@@ -8,7 +8,7 @@
       "version": "2026-05-21-1",
       "totalPages": 489,
       "deliveryMode": "remote",
-      "baseUrl": "",
+      "baseUrl": "https://cdn.jsdelivr.net/gh/SahilHasnain/shifa-shareef-assets@main/pages/urdu/volume1",
       "filePattern": "page-{page}.webp",
       "extension": "webp"
     },
@@ -17,7 +17,7 @@
       "version": "2026-05-21-1",
       "totalPages": 485,
       "deliveryMode": "remote",
-      "baseUrl": "",
+      "baseUrl": "https://cdn.jsdelivr.net/gh/SahilHasnain/shifa-shareef-assets@main/pages/urdu/volume2",
       "filePattern": "page-{page}.webp",
       "extension": "webp"
     }
