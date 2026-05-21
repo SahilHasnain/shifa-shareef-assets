@@ -1,0 +1,25 @@
+{
+  "languageId": "urdu",
+  "title": "Urdu",
+  "version": "2026-05-21-1",
+  "volumes": [
+    {
+      "id": "volume1",
+      "version": "2026-05-21-1",
+      "totalPages": 489,
+      "deliveryMode": "remote",
+      "baseUrl": "",
+      "filePattern": "page-{page}.webp",
+      "extension": "webp"
+    },
+    {
+      "id": "volume2",
+      "version": "2026-05-21-1",
+      "totalPages": 485,
+      "deliveryMode": "remote",
+      "baseUrl": "",
+      "filePattern": "page-{page}.webp",
+      "extension": "webp"
+    }
+  ]
+}
