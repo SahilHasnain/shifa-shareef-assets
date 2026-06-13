@@ -1,0 +1,15 @@
+{
+  "languageId": "roman-urdu",
+  "title": "Roman Urdu",
+  "version": "1.0.0",
+  "volumes": [
+    {
+      "id": "volume1",
+      "version": "1.0.0",
+      "format": "epub",
+      "epubUrl": "https://cdn.jsdelivr.net/gh/SahilHasnain/shifa-shareef-assets@main/epub/roman-urdu/volume1.epub",
+      "totalPages": 300,
+      "fileSize": "~5MB"
+    }
+  ]
+}
