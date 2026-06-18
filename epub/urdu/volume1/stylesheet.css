@@ -1,0 +1,971 @@
+.block_ {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    font-family: "Aslam", serif;
+    font-size: 1.41667em;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_2 {
+    color: black;
+    display: block;
+    line-height: 26pt;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_3 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_4 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_5 {
+    color: black;
+    display: block;
+    font-family: "Aslam", serif;
+    font-size: 1.125em;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    color: black;
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_8 {
+    color: black;
+    display: block;
+    font-family: "Aslam", serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_9 {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_10 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_13 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_14 {
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    text-decoration: underline;
+    margin: 0;
+    padding: 0
+    }
+.block_15 {
+    color: black;
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0;
+    padding: 0
+    }
+.block_16 {
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 72pt;
+    padding: 0
+    }
+.block_17 {
+    display: block;
+    font-family: "noorehira", serif;
+    font-size: 1.125em;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_18 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_19 {
+    display: block;
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.125em;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_20 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_21 {
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_22 {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 26pt;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0;
+    padding: 0
+    }
+.block_23 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt 0 0;
+    padding: 0
+    }
+.block_24 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: left;
+    margin: 0;
+    padding: 0
+    }
+.block_25 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: left;
+    margin: 0;
+    padding: 0
+    }
+.block_26 {
+    display: block;
+    font-family: "Aslam", serif;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_27 {
+    color: black;
+    display: block;
+    font-size: 0.41667em;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0;
+    padding: 0
+    }
+.block_28 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_29 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.08;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_30 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_31 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_32 {
+    color: black;
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_33 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 18pt 0 0;
+    padding: 0
+    }
+.block_34 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0;
+    padding: 0
+    }
+.block_35 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0;
+    padding: 0
+    }
+.block_36 {
+    display: block;
+    font-family: serif;
+    line-height: 24pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_37 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_38 {
+    display: block;
+    font-family: "Al Qalam Quran Majeed", serif;
+    line-height: 24pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_39 {
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 26pt;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0;
+    padding: 0
+    }
+.block_40 {
+    color: black;
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_41 {
+    color: black;
+    display: block;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_42 {
+    display: block;
+    font-family: serif;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_43 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: left;
+    margin: 0;
+    padding: 0
+    }
+.block_44 {
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 26pt;
+    text-align: justify;
+    text-indent: -72pt;
+    margin: 0 0 0 72pt;
+    padding: 0
+    }
+.block_45 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_46 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_47 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    font-weight: normal;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_48 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.08;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_49 {
+    display: block;
+    font-family: serif;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_50 {
+    display: block;
+    font-family: serif;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_51 {
+    color: black;
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_52 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_53 {
+    color: black;
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_54 {
+    color: black;
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_55 {
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 26pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_56 {
+    display: block;
+    font-family: "Al Qalam Quran Majeed", serif;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_57 {
+    color: black;
+    display: block;
+    font-family: "Al_Mushaf", serif;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_58 {
+    color: black;
+    display: block;
+    font-family: serif;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt;
+    padding: 0
+    }
+.block_59 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 6pt 0 0;
+    padding: 0
+    }
+.block_60 {
+    display: block;
+    font-size: 1.41667em;
+    font-weight: normal;
+    line-height: 26pt;
+    text-align: justify;
+    text-decoration: underline;
+    margin: 6pt 0 0;
+    padding: 0
+    }
+.block_61 {
+    display: block;
+    font-family: serif;
+    line-height: 24pt;
+    text-align: justify;
+    margin: 0 18pt 0 0;
+    padding: 0
+    }
+.block_62 {
+    color: black;
+    display: block;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0 18pt 0 0;
+    padding: 0
+    }
+.block_63 {
+    color: black;
+    display: block;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_64 {
+    display: block;
+    font-family: "ادوبي نسخ الغريب", serif;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_65 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 24pt;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_66 {
+    color: black;
+    display: block;
+    line-height: 26pt;
+    text-align: left;
+    margin: 0;
+    padding: 0
+    }
+.calibre {
+    color: #0A5C36;
+    display: block;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre2 {
+    white-space: pre-wrap
+    }
+.calibre3 {
+    line-height: 1.2
+    }
+.calibre4 {
+    display: block;
+    line-height: 1.2
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text_ {
+    color: #0563C1;
+    text-decoration: underline
+    }
+.text_1 {
+    display: none
+    }
+.text_2 {
+    color: #0563C1;
+    font-family: "Aslam", serif;
+    font-size: 1em;
+    text-decoration: underline
+    }
+.text_3 {
+    display: none;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.33333em
+    }
+.text_4 {
+    color: #0A5C36;
+    font-family: "Al_Mushaf", serif;
+    text-decoration: underline
+    }
+.text_5 {
+    color: #0563C1;
+    font-family: "Aslam", serif;
+    font-size: 1.33333em;
+    text-decoration: underline
+    }
+.text_6 {
+    color: #0563C1;
+    font-family: "Payami Nastaleeq", serif;
+    text-decoration: underline
+    }
+.text_7 {
+    color: #0563C1;
+    font-family: "Al_Mushaf", serif;
+    text-decoration: underline
+    }
+.text_8 {
+    color: #0A5C36;
+    font-family: "Payami Nastaleeq", serif;
+    text-decoration: underline
+    }
+.text_9 {
+    display: none;
+    font-family: "Payami Nastaleeq", serif
+    }
+.text_10 {
+    color: #385623;
+    font-size: 1.33333em;
+    text-decoration: underline
+    }
+.text_11 {
+    color: #0A5C36;
+    font-size: 1.33333em;
+    text-decoration: underline
+    }
+.text_12 {
+    color: #0A5C36;
+    font-size: 1.5em;
+    text-decoration: underline
+    }
+.text_13 {
+    color: #385623;
+    font-size: 1.5em;
+    text-decoration: underline
+    }
+.text_14 {
+    color: #0563C1;
+    font-family: "Times New Roman", serif;
+    text-decoration: underline
+    }
+.text_15 {
+    color: #0A5C36;
+    font-family: "Aslam", serif;
+    font-size: 1em;
+    text-decoration: underline
+    }
+.text_16 {
+    color: #0A5C36;
+    display: none;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.33333em
+    }
+.text_17 {
+    color: #0A5C36;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.33333em;
+    text-decoration: underline
+    }
+.text_18 {
+    font-family: "Al_Mushaf", serif;
+    color: #0A5C36
+    }
+.text_19 {
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.33333em
+    }
+.text_20 {
+    font-family: "noorehira", serif;
+    font-size: 1.33333em
+    }
+.text_21 {
+    font-family: "noorehira", serif;
+    font-size: 1.5em
+    }
+.text_22 {
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1em
+    }
+.text_23 {
+    font-family: "Al_Mushaf", serif;
+    color: #0A5C36
+    }
+.text_24 {
+    font-family: "Payami Nastaleeq", serif
+    }
+.text_25 {
+    font-family: "noorehira", serif
+    }
+.text_26 {
+    font-family: "Al_Mushaf", serif;
+    color: #0A5C36
+    }
+.text_27 {
+    text-decoration: underline
+    }
+.text_28 {
+    font-size: 1.33333em
+    }
+.text_29 {
+    font-size: 1em
+    }
+.text_30 {
+    font-family: "Al_Mushaf", serif;
+    font-size: 1em
+    }
+.text_31 {
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.33333em
+    }
+.text_32 {
+    font-family: "ادوبي نسخ الغريب", serif
+    }
+.text_33 {
+    font-family: "Al_Mushaf", serif
+    }
+.text_34 {
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.5em
+    }
+.text_35 {
+    color: #0A5C36;
+    font-size: 1em
+    }
+.text_36 {
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1.33333em
+    }
+.text_37 {
+    font-family: "Al Qalam Quran Majeed", serif;
+    font-size: 1.33333em
+    }
+.text_38 {
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1em
+    }
+.text_39 {
+    color: #0A5C36;
+    font-family: "ادوبي نسخ الغريب", serif
+    }
+.text_40 {
+    color: #0A5C36;
+    font-family: "Al Qalam Quran Majeed", serif
+    }
+.text_41 {
+    color: #0A5C36;
+    font-family: "Al_Mushaf", serif
+    }
+.text_42 {
+    color: #0A5C36;
+    font-family: "Aslam", serif
+    }
+.text_43 {
+    color: #385623;
+    font-family: "Payami Nastaleeq", serif
+    }
+.text_44 {
+    color: #0A5C36;
+    font-family: "Aslam", serif;
+    font-size: 1.33333em
+    }
+.text_45 {
+    color: #0A5C36;
+    font-family: "Aslam", serif;
+    font-size: 1.5em
+    }
+.text_46 {
+    font-family: "Aslam", serif;
+    font-size: 1.5em
+    }
+.text_47 {
+    font-family: "Jameel Noori Nastaleeq", serif
+    }
+.text_48 {
+    color: #0A5C36;
+    font-family: "Al Qalam Quran Majeed", serif;
+    font-size: 1.33333em
+    }
+.text_49 {
+    color: #0A5C36;
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1.33333em
+    }
+.text_50 {
+    color: #0A5C36;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1em
+    }
+.text_51 {
+    color: #385623;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.33333em
+    }
+.text_52 {
+    font-family: "Al_Mushaf", serif;
+    color: #0A5C36
+    }
+.text_53 {
+    font-family: "Al Qalam Quran Majeed", serif
+    }
+.text_54 {
+    color: #0A5C36;
+    font-family: "Al Qalam Quran Majeed", serif;
+    font-size: 1.5em
+    }
+.text_55 {
+    font-family: "1 MUHAMMADI QURANIC", cursive
+    }
+.text_56 {
+    color: #0A5C36;
+    font-family: "1 MUHAMMADI QURANIC", cursive;
+    font-size: 1.33333em
+    }
+.text_57 {
+    font-family: "Al Qalam Quran Majeed", serif;
+    font-size: 1em
+    }
+.text_58 {
+    font-family: "1 MUHAMMADI QURANIC", cursive;
+    font-size: 1.33333em
+    }
+.text_59 {
+    color: #0A5C36;
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.5em
+    }
+.text_60 {
+    color: #0A5C36;
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.33333em
+    }
+.text_61 {
+    font-family: "Al Qalam Quran Majeed", serif;
+    font-size: 1.5em
+    }
+.text_62 {
+    font-family: "Times New Roman", serif;
+    font-size: 1em
+    }
+.text_63 {
+    color: #0A5C36;
+    font-family: "_PDMS_Saleem_QuranFont", serif;
+    font-size: 1.33333em
+    }
+.text_64 {
+    font-family: "Jameel Noori Nastaleeq", serif;
+    font-size: 1em
+    }
+.text_65 {
+    color: #000;
+    font-family: "Times New Roman", serif;
+    font-size: 1.33333em
+    }
+.text_66 {
+    font-family: "Quranic_Font", serif
+    }
+.text_67 {
+    color: #385623;
+    font-family: "Al Qalam Quran Majeed", serif;
+    font-size: 1.33333em
+    }
+.text_68 {
+    color: #000;
+    font-family: "Al Qalam Quran Majeed", serif
+    }
+.text_69 {
+    font-family: "Quranic_Font", serif;
+    font-size: 1.33333em
+    }
+.text_70 {
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.88889em
+    }
+.text_71 {
+    font-family: "Times New Roman", serif
+    }
+.text_72 {
+    font-size: 1.5em
+    }
+.text_73 {
+    font-family: "Times New Roman", serif;
+    font-size: 1.33333em
+    }
+.text_74 {
+    font-family: "Aslam", serif
+    }
+.text_75 {
+    color: #385623;
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1.33333em
+    }
+.text_76 {
+    font-family: "Cambria", serif
+    }
+.text_77 {
+    color: #0A5C36;
+    font-family: "Payami Nastaleeq", serif;
+    font-size: 1.88889em
+    }
+.text_78 {
+    color: #0A5C36;
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1.5em
+    }
+.text_79 {
+    color: #0A5C36;
+    font-family: "Quranic_Font", serif;
+    font-size: 1.33333em
+    }
+.text_80 {
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1.5em
+    }

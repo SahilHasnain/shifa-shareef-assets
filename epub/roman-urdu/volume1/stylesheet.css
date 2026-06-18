@@ -1,0 +1,257 @@
+.block_ {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    font-family: "Wensley Demo", serif;
+    font-size: 1.125em;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 4pt 0;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_4 {
+    display: block;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 4pt 0;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    font-family: "Calibri Light", sans-serif;
+    font-size: 1.41667em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_8 {
+    display: block;
+    font-family: "Calibri Light", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_9 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 1.08;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_10 {
+    display: block;
+    font-family: "Calibri Light", sans-serif;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 6pt 0;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 6pt 18pt;
+    padding: 0
+    }
+.block_12 {
+    display: block;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 6pt 18pt 6pt 0;
+    padding: 0
+    }
+.block_13 {
+    display: block;
+    font-size: 0.75em;
+    font-style: italic;
+    text-align: right;
+    margin: 0;
+    padding: 0
+    }
+.block_14 {
+    display: block;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 6pt 18pt;
+    padding: 0
+    }
+.block_15 {
+    display: block;
+    line-height: 1.2;
+    text-align: left;
+    margin: 0 0 8pt;
+    padding: 0
+    }
+.block_16 {
+    display: block;
+    font-family: serif;
+    line-height: 1.2;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_17 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    text-align: justify;
+    margin: 0;
+    padding: 0 0 1pt;
+    border-bottom: black solid 1pt
+    }
+.block_18 {
+    display: block;
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.125em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.block_19 {
+    display: block;
+    font-family: serif;
+    font-size: 0.75em;
+    line-height: 26pt;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.calibre {
+    color: black;
+    display: block;
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    text-decoration: none
+    }
+.calibre2 {
+    line-height: 1.2;
+    white-space: pre-wrap
+    }
+.calibre3 {
+    white-space: pre-wrap
+    }
+.text_ {
+    font-family: "Calibri", sans-serif;
+    font-size: 1em
+    }
+.text_1 {
+    color: #0563C1;
+    font-family: "Calibri Light", sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    text-decoration: underline
+    }
+.text_2 {
+    color: #0563C1;
+    font-family: "Calibri Light", sans-serif;
+    font-weight: bold;
+    text-decoration: underline
+    }
+.text_3 {
+    color: #0563C1;
+    text-decoration: underline
+    }
+.text_4 {
+    color: #0563C1;
+    font-family: "Adobe Garamond Pro", serif;
+    text-decoration: underline
+    }
+.text_5 {
+    font-size: 1.33333em
+    }
+.text_6 {
+    font-size: 1.33333em;
+    font-style: italic
+    }
+.text_7 {
+    font-size: 1em;
+    font-style: italic
+    }
+.text_8 {
+    font-family: "Times New Roman", serif;
+    font-size: 1.33333em;
+    font-weight: bold
+    }
+.text_9 {
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 1.33333em
+    }
+.text_10 {
+    font-family: "Adobe Garamond Pro", serif;
+    font-size: 1em;
+    font-style: italic
+    }
+.text_11 {
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_12 {
+    font-family: "Adobe Garamond Pro", serif;
+    line-height: 1.2
+    }
+.text_13 {
+    font-family: "Al_Mushaf", serif;
+    font-size: 1.5em
+    }
+.text_14 {
+    font-family: "ادوبي نسخ الغريب", serif;
+    font-size: 1.5em
+    }
+.text_15 {
+    font-family: "Calibri Light", sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1.2
+    }

@@ -1,0 +1,1005 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+  <head>
+    <meta content="05d3f808-37a0-4fde-a91a-7f58c82e9500" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.99.5)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>قسم دوم</text>
+      </navLabel>
+      <content src="index_split_001.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_2" playOrder="2">
+      <navLabel>
+        <text>حضور سید عالم ﷺ کے کون سے حقوق امت پر واجب ہیں؟</text>
+      </navLabel>
+      <content src="index_split_001.html#id_Toc165910944"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_3" playOrder="3">
+      <navLabel>
+        <text>پہلا باب</text>
+      </navLabel>
+      <content src="index_split_002.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_4" playOrder="4">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_5" playOrder="5">
+      <navLabel>
+        <text>آپ ﷺ پر ایمان لانا فرض آپ ﷺ کی اطاعت اور آپ ﷺ کی سنت کا اتباع</text>
+      </navLabel>
+      <content src="index_split_003.html#id_Toc165910947"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_6" playOrder="6">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_004.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_7" playOrder="7">
+      <navLabel>
+        <text>وجوب اتباع و تعمیل سنت کا کتاب وسنت سے ثبوت</text>
+      </navLabel>
+      <content src="index_split_004.html#id_Toc165910949"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_8" playOrder="8">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_9" playOrder="9">
+      <navLabel>
+        <text>سلف صالحین رحمہم اللہ سے اتباع سنت کا وجوب</text>
+      </navLabel>
+      <content src="index_split_005.html#id_Toc165910951"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_10" playOrder="10">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_006.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_11" playOrder="11">
+      <navLabel>
+        <text>سنت کی مخالفت موجب عذاب آخرت ہے</text>
+      </navLabel>
+      <content src="index_split_006.html#id_Toc165910953"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>دوسرا باب</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_13" playOrder="13">
+      <navLabel>
+        <text>امت پر آپ ﷺ کی محبت لازم واجب ہے</text>
+      </navLabel>
+      <content src="index_split_007.html#id_Toc165910955"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_14" playOrder="14">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_008.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_15" playOrder="15">
+      <navLabel>
+        <text>آپ ﷺ سے محبت رکھنے کا اجر وثواب</text>
+      </navLabel>
+      <content src="index_split_008.html#id_Toc165910957"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_16" playOrder="16">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_17" playOrder="17">
+      <navLabel>
+        <text>آپ ﷺ سے محبت رکھنے کے بارے میں اقوال سلف</text>
+      </navLabel>
+      <content src="index_split_009.html#id_Toc165910959"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_18" playOrder="18">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_010.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>حضور ﷺ سے محبت رکھنے کی علامت</text>
+      </navLabel>
+      <content src="index_split_010.html#id_Toc165910961"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_20" playOrder="20">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_21" playOrder="21">
+      <navLabel>
+        <text>محبت کے معنی اور اس کی حقیقت</text>
+      </navLabel>
+      <content src="index_split_011.html#id_Toc165910963"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_22" playOrder="22">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_012.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_23" playOrder="23">
+      <navLabel>
+        <text>حضور ﷺ سے خیر خواہی واجب ہے</text>
+      </navLabel>
+      <content src="index_split_012.html#id_Toc165910965"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_24" playOrder="24">
+      <navLabel>
+        <text>تیسرا باب</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>آپ ﷺ کی تعظیم وتوقیر اور ادائے حقوق کا حکم اور اس کا وجوب</text>
+      </navLabel>
+      <content src="index_split_013.html#id_Toc165910967"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_26" playOrder="26">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_014.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_27" playOrder="27">
+      <navLabel>
+        <text>تعظیم وتوقیر میں صحابہ کرام رضی اللہ عنہم کی عادت</text>
+      </navLabel>
+      <content src="index_split_014.html#id_Toc165910969"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_28" playOrder="28">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_29" playOrder="29">
+      <navLabel>
+        <text>بعد وفات تعظیم و تو قیر کا وجوب</text>
+      </navLabel>
+      <content src="index_split_015.html#id_Toc165910971"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_30" playOrder="30">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_016.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>روایت حدیث کے وقت ائمہ سلف رحمہم اللہ کا طریقہ</text>
+      </navLabel>
+      <content src="index_split_016.html#id_Toc165910973"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_32" playOrder="32">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_33" playOrder="33">
+      <navLabel>
+        <text>اہل بیت اطہار، ازواج مطہرات کی تعظیم وتوقیر</text>
+      </navLabel>
+      <content src="index_split_017.html#id_Toc165910975"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_34" playOrder="34">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_018.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_35" playOrder="35">
+      <navLabel>
+        <text>صحابہ کرام رضی اللہ عنہم کی عزت و تکریم</text>
+      </navLabel>
+      <content src="index_split_018.html#id_Toc165910977"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_36" playOrder="36">
+      <navLabel>
+        <text>چھٹی فصل</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_37" playOrder="37">
+      <navLabel>
+        <text>آثار و مقامات متبرکہ نبویہ ﷺ کی تعظیم</text>
+      </navLabel>
+      <content src="index_split_019.html#id_Toc165910979"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_38" playOrder="38">
+      <navLabel>
+        <text>چھوتھا باب</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_39" playOrder="39">
+      <navLabel>
+        <text>درود وسلام کی فرضیت وفضیلت</text>
+      </navLabel>
+      <content src="index_split_020.html#id_Toc165910981"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_40" playOrder="40">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_41" playOrder="41">
+      <navLabel>
+        <text>درودشریف کی فرضیت</text>
+      </navLabel>
+      <content src="index_split_021.html#id_Toc165910983"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_42" playOrder="42">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_022.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_43" playOrder="43">
+      <navLabel>
+        <text>وہ مواقع جہاں درودشریف مستحب ہے</text>
+      </navLabel>
+      <content src="index_split_022.html#id_Toc165910985"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_44" playOrder="44">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_45" playOrder="45">
+      <navLabel>
+        <text>درودشریف کی کیفیت اور اس کے کلمات</text>
+      </navLabel>
+      <content src="index_split_023.html#id_Toc165910987"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_46" playOrder="46">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_024.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_47" playOrder="47">
+      <navLabel>
+        <text>درود وسلام کی فضیلت</text>
+      </navLabel>
+      <content src="index_split_024.html#id_Toc165910989"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_48" playOrder="48">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_49" playOrder="49">
+      <navLabel>
+        <text>درود وسلام نہ بھیجنے والے کی مذمت اور گناہ</text>
+      </navLabel>
+      <content src="index_split_025.html#id_Toc165910991"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_50" playOrder="50">
+      <navLabel>
+        <text>چھٹی فصل</text>
+      </navLabel>
+      <content src="index_split_026.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_51" playOrder="51">
+      <navLabel>
+        <text>حضور ﷺ پر خصوصیت سے درود پیش ہوتا ہے</text>
+      </navLabel>
+      <content src="index_split_026.html#id_Toc165910993"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_52" playOrder="52">
+      <navLabel>
+        <text>ساتویں فصل</text>
+      </navLabel>
+      <content src="index_split_027.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_53" playOrder="53">
+      <navLabel>
+        <text>غیر نبی اور تمام انبیا علیہم السلام پر درود بھیجنے کا مسئلہ</text>
+      </navLabel>
+      <content src="index_split_027.html#id_Toc165910995"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_54" playOrder="54">
+      <navLabel>
+        <text>آٹھویں فصل</text>
+      </navLabel>
+      <content src="index_split_028.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_55" playOrder="55">
+      <navLabel>
+        <text>قبر انور کی زیارت کا حکم اور زائر کی فضیلت</text>
+      </navLabel>
+      <content src="index_split_028.html#id_Toc165910997"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_56" playOrder="56">
+      <navLabel>
+        <text>نویں فصل</text>
+      </navLabel>
+      <content src="index_split_029.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_57" playOrder="57">
+      <navLabel>
+        <text>مسجد نبوی شریف کی فضیلت و آداب</text>
+      </navLabel>
+      <content src="index_split_029.html#id_Toc165910999"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_58" playOrder="58">
+      <navLabel>
+        <text>قسم سوم</text>
+      </navLabel>
+      <content src="index_split_030.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_59" playOrder="59">
+      <navLabel>
+        <text>وہ مامور جو آپ ﷺ پر جائز یا ممتنع ہیں اور احوال بشر یہ کا بیان</text>
+      </navLabel>
+      <content src="index_split_030.html#id_Toc165911001"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_60" playOrder="60">
+      <navLabel>
+        <text>پہلا باب</text>
+      </navLabel>
+      <content src="index_split_031.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_61" playOrder="61">
+      <navLabel>
+        <text>امور دینیہ اورعصمت انبیاء علیہم السلام</text>
+      </navLabel>
+      <content src="index_split_031.html#id_Toc165911003"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_62" playOrder="62">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_032.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_63" playOrder="63">
+      <navLabel>
+        <text>حضور ﷺ کی دلی پختگی</text>
+      </navLabel>
+      <content src="index_split_032.html#id_Toc165911005"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_64" playOrder="64">
+      <navLabel>
+        <text>انقطاع وحی (وحی کا نہ آنا)</text>
+      </navLabel>
+      <content src="index_split_032.html#id_Toc165911006"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_65" playOrder="65">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_033.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_66" playOrder="66">
+      <navLabel>
+        <text>قبل اظہار نبوت انبیا علیہم السلام کی عصمت</text>
+      </navLabel>
+      <content src="index_split_033.html#id_Toc165911008"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_67" playOrder="67">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_034.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_68" playOrder="68">
+      <navLabel>
+        <text>انبیاء علیہم السلام تو حید ایمان اور وحی میں مضبوط تھے</text>
+      </navLabel>
+      <content src="index_split_034.html#id_Toc165911010"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_69" playOrder="69">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_035.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_70" playOrder="70">
+      <navLabel>
+        <text>حضور ﷺ اثر شیطان اور ہر شر وفساد پر معصوم تھے</text>
+      </navLabel>
+      <content src="index_split_035.html#id_Toc165911012"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_71" playOrder="71">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_036.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_72" playOrder="72">
+      <navLabel>
+        <text>حضور ﷺ کے اقوال میں عصمت</text>
+      </navLabel>
+      <content src="index_split_036.html#id_Toc165911014"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_73" playOrder="73">
+      <navLabel>
+        <text>چھٹی فصل</text>
+      </navLabel>
+      <content src="index_split_037.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_74" playOrder="74">
+      <navLabel>
+        <text>معترضین کے جوابات</text>
+      </navLabel>
+      <content src="index_split_037.html#id_Toc165911016"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_75" playOrder="75">
+      <navLabel>
+        <text>ساتویں فصل</text>
+      </navLabel>
+      <content src="index_split_038.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_76" playOrder="76">
+      <navLabel>
+        <text>دنیاوی امور میں صدق مقال اور احوال بشریہ</text>
+      </navLabel>
+      <content src="index_split_038.html#id_Toc165911018"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_77" playOrder="77">
+      <navLabel>
+        <text>آٹھویں فصل</text>
+      </navLabel>
+      <content src="index_split_039.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_78" playOrder="78">
+      <navLabel>
+        <text>سہو حدیث</text>
+      </navLabel>
+      <content src="index_split_039.html#id_Toc165911020"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_79" playOrder="79">
+      <navLabel>
+        <text>نویں فصل</text>
+      </navLabel>
+      <content src="index_split_040.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_80" playOrder="80">
+      <navLabel>
+        <text>حضور ﷺ کے اعضاء و جوارح کی عصمت</text>
+      </navLabel>
+      <content src="index_split_040.html#id_Toc165911022"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_81" playOrder="81">
+      <navLabel>
+        <text>دسویں فصل</text>
+      </navLabel>
+      <content src="index_split_041.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_82" playOrder="82">
+      <navLabel>
+        <text>قبل اظہار نبوت کی عصمت</text>
+      </navLabel>
+      <content src="index_split_041.html#id_Toc165911024"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_83" playOrder="83">
+      <navLabel>
+        <text>گیارہویں فصل</text>
+      </navLabel>
+      <content src="index_split_042.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_84" playOrder="84">
+      <navLabel>
+        <text>وہ افعال و اعمال جو بلا قصد وارادہ صادر ہوئے</text>
+      </navLabel>
+      <content src="index_split_042.html#id_Toc165911026"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_85" playOrder="85">
+      <navLabel>
+        <text>بارہویں فصل</text>
+      </navLabel>
+      <content src="index_split_043.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_86" playOrder="86">
+      <navLabel>
+        <text>سہوی احادیث پر مکمل بحث</text>
+      </navLabel>
+      <content src="index_split_043.html#id_Toc165911028"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_87" playOrder="87">
+      <navLabel>
+        <text>تیرہویں فصل</text>
+      </navLabel>
+      <content src="index_split_044.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_88" playOrder="88">
+      <navLabel>
+        <text>انبیاء کرام علیہ السلام صغائر کے ارتکاب سے بھی معصوم ہیں</text>
+      </navLabel>
+      <content src="index_split_044.html#id_Toc165911030"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_89" playOrder="89">
+      <navLabel>
+        <text>چودہویں فصل</text>
+      </navLabel>
+      <content src="index_split_045.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_90" playOrder="90">
+      <navLabel>
+        <text>دفع اشکال از عصیان انبیاء کرام علیہم السلام</text>
+      </navLabel>
+      <content src="index_split_045.html#id_Toc165911032"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_91" playOrder="91">
+      <navLabel>
+        <text>پندرہویں فصل</text>
+      </navLabel>
+      <content src="index_split_046.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_92" playOrder="92">
+      <navLabel>
+        <text>حقوق نبوت و رسالت ﷺ پر تنبیہات</text>
+      </navLabel>
+      <content src="index_split_046.html#id_Toc165911034"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_93" playOrder="93">
+      <navLabel>
+        <text>سولہویں فصل</text>
+      </navLabel>
+      <content src="index_split_047.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_94" playOrder="94">
+      <navLabel>
+        <text>عصمت ملائکہ</text>
+      </navLabel>
+      <content src="index_split_047.html#id_Toc165911036"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_95" playOrder="95">
+      <navLabel>
+        <text>دوسرا باب</text>
+      </navLabel>
+      <content src="index_split_048.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_96" playOrder="96">
+      <navLabel>
+        <text>انبیا علیہم السلام کی امور دنیویہ میں خصوصیت اور ان پر عوارض بشریہ کا اطلاق</text>
+      </navLabel>
+      <content src="index_split_048.html#id_Toc165911038"/>
+      <navPoint class="chapter" id="num_97" playOrder="97">
+        <navLabel>
+          <text>عوارض بشریہ</text>
+        </navLabel>
+        <content src="index_split_048.html#id_Toc165911039"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_98" playOrder="98">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_049.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_99" playOrder="99">
+      <navLabel>
+        <text>آپ ﷺ پر جادو کا اثر</text>
+      </navLabel>
+      <content src="index_split_049.html#id_Toc165911041"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_100" playOrder="100">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_050.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_101" playOrder="101">
+      <navLabel>
+        <text>دنیاوی امور میں آپ ﷺ کی حالت</text>
+      </navLabel>
+      <content src="index_split_050.html#id_Toc165911043"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_102" playOrder="102">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_051.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_103" playOrder="103">
+      <navLabel>
+        <text>بشری احکام ومعتقدات</text>
+      </navLabel>
+      <content src="index_split_051.html#id_Toc165911045"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_104" playOrder="104">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_052.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_105" playOrder="105">
+      <navLabel>
+        <text>حضور ﷺ کے دنیاوی اقوال</text>
+      </navLabel>
+      <content src="index_split_052.html#id_Toc165911047"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_106" playOrder="106">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_053.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_107" playOrder="107">
+      <navLabel>
+        <text>بیان حدیث قرطاس (وصیت)</text>
+      </navLabel>
+      <content src="index_split_053.html#id_Toc165911049"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_108" playOrder="108">
+      <navLabel>
+        <text>چھٹی فصل</text>
+      </navLabel>
+      <content src="index_split_054.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_109" playOrder="109">
+      <navLabel>
+        <text>کلمات بددعا کی توجیحات</text>
+      </navLabel>
+      <content src="index_split_054.html#id_Toc165911051"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_110" playOrder="110">
+      <navLabel>
+        <text>ساتویں فصل</text>
+      </navLabel>
+      <content src="index_split_055.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_111" playOrder="111">
+      <navLabel>
+        <text>آپ ﷺ کے دنیاوی افعال</text>
+      </navLabel>
+      <content src="index_split_055.html#id_Toc165911053"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_112" playOrder="112">
+      <navLabel>
+        <text>آٹھویں فصل</text>
+      </navLabel>
+      <content src="index_split_056.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_113" playOrder="113">
+      <navLabel>
+        <text>حکمت ابتلاء انبیاء ورسل علیہم السلام</text>
+      </navLabel>
+      <content src="index_split_056.html#id_Toc165911055"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_114" playOrder="114">
+      <navLabel>
+        <text>قسم چہارم</text>
+      </navLabel>
+      <content src="index_split_057.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_115" playOrder="115">
+      <navLabel>
+        <text>وجوہات تنقیص و توہین اور اس کے احکام شرعیہ</text>
+      </navLabel>
+      <content src="index_split_057.html#id_Toc165911057"/>
+      <navPoint class="chapter" id="num_116" playOrder="116">
+        <navLabel>
+          <text>موہن وشاتم کا حکم قتل</text>
+        </navLabel>
+        <content src="index_split_057.html#id_Toc165911058"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_117" playOrder="117">
+      <navLabel>
+        <text>پہلا باب</text>
+      </navLabel>
+      <content src="index_split_058.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_118" playOrder="118">
+      <navLabel>
+        <text>وہ الفاظ جن سے تنقیص و تو ہین ہوتی ہے</text>
+      </navLabel>
+      <content src="index_split_058.html#id_Toc165911060"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_119" playOrder="119">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_059.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_120" playOrder="120">
+      <navLabel>
+        <text>دلائل و جوب قتل</text>
+      </navLabel>
+      <content src="index_split_059.html#id_Toc165911062"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_121" playOrder="121">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_060.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_122" playOrder="122">
+      <navLabel>
+        <text>بعض یہود و منافقین کے قتل نہ کرنے کی حکمت</text>
+      </navLabel>
+      <content src="index_split_060.html#id_Toc165911064"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_123" playOrder="123">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_061.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_124" playOrder="124">
+      <navLabel>
+        <text>بلاقصد اہانت وتحقیر کا حکم</text>
+      </navLabel>
+      <content src="index_split_061.html#id_Toc165911066"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_125" playOrder="125">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_062.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_126" playOrder="126">
+      <navLabel>
+        <text>ارشادات نبوی ﷺ کی تکذیب کا حکم</text>
+      </navLabel>
+      <content src="index_split_062.html#id_Toc165911068"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_127" playOrder="127">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_063.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_128" playOrder="128">
+      <navLabel>
+        <text>مشتبہ اورمحتمل اقوال کا حکم</text>
+      </navLabel>
+      <content src="index_split_063.html#id_Toc165911070"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_129" playOrder="129">
+      <navLabel>
+        <text>چھٹی فصل</text>
+      </navLabel>
+      <content src="index_split_064.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_130" playOrder="130">
+      <navLabel>
+        <text>امثال سے گالی دینے کا حاکم</text>
+      </navLabel>
+      <content src="index_split_064.html#id_Toc165911072"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_131" playOrder="131">
+      <navLabel>
+        <text>ساتویں فصل</text>
+      </navLabel>
+      <content src="index_split_065.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_132" playOrder="132">
+      <navLabel>
+        <text>بطور حکایت نقل کفر کا حکم</text>
+      </navLabel>
+      <content src="index_split_065.html#id_Toc165911074"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_133" playOrder="133">
+      <navLabel>
+        <text>آٹھویں فصل</text>
+      </navLabel>
+      <content src="index_split_066.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_134" playOrder="134">
+      <navLabel>
+        <text>امور مختلفہ کے ذکر کرنے کا حکم</text>
+      </navLabel>
+      <content src="index_split_066.html#id_Toc165911076"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_135" playOrder="135">
+      <navLabel>
+        <text>نویں فصل</text>
+      </navLabel>
+      <content src="index_split_067.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_136" playOrder="136">
+      <navLabel>
+        <text>خطباء و واعظین کوتنبیہات</text>
+      </navLabel>
+      <content src="index_split_067.html#id_Toc165911078"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_137" playOrder="137">
+      <navLabel>
+        <text>دوسرا باب</text>
+      </navLabel>
+      <content src="index_split_068.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_138" playOrder="138">
+      <navLabel>
+        <text>حضور ﷺ پر سب وشتم تنقیص و اہانت کرنے والے کی عقوبت و وراثت کا حکم</text>
+      </navLabel>
+      <content src="index_split_068.html#id_Toc165911080"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_139" playOrder="139">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_069.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_140" playOrder="140">
+      <navLabel>
+        <text>مدت و کیفیت تو بہ</text>
+      </navLabel>
+      <content src="index_split_069.html#id_Toc165911082"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_141" playOrder="141">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_070.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_142" playOrder="142">
+      <navLabel>
+        <text>نامکمل یا عدم شہادت پرحکم</text>
+      </navLabel>
+      <content src="index_split_070.html#id_Toc165911084"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_143" playOrder="143">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_071.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_144" playOrder="144">
+      <navLabel>
+        <text>ذمی سے گالی کے صدور کا حکم</text>
+      </navLabel>
+      <content src="index_split_071.html#id_Toc165911086"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_145" playOrder="145">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_072.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_146" playOrder="146">
+      <navLabel>
+        <text>گستاخ رسول ﷺ کی میراث اور اس کے غسل ونماز جنازہ کا حکم</text>
+      </navLabel>
+      <content src="index_split_072.html#id_Toc165911088"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_147" playOrder="147">
+      <navLabel>
+        <text>تیسرا باب</text>
+      </navLabel>
+      <content src="index_split_073.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_148" playOrder="148">
+      <navLabel>
+        <text>پہلی فصل</text>
+      </navLabel>
+      <content src="index_split_074.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_149" playOrder="149">
+      <navLabel>
+        <text>شان الہی کے خلاف کلمات بولنے کا حکم</text>
+      </navLabel>
+      <content src="index_split_074.html#id_Toc165911091"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_150" playOrder="150">
+      <navLabel>
+        <text>دوسری فصل</text>
+      </navLabel>
+      <content src="index_split_075.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_151" playOrder="151">
+      <navLabel>
+        <text>متاولین کی تکفیر میں تحقیقی قول</text>
+      </navLabel>
+      <content src="index_split_075.html#id_Toc165911093"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_152" playOrder="152">
+      <navLabel>
+        <text>تیسری فصل</text>
+      </navLabel>
+      <content src="index_split_076.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_153" playOrder="153">
+      <navLabel>
+        <text>چوتھی فصل</text>
+      </navLabel>
+      <content src="index_split_077.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_154" playOrder="154">
+      <navLabel>
+        <text>جو ذمی ہوکر اللہ عزوجل کو گالی دے اس کا حکم</text>
+      </navLabel>
+      <content src="index_split_077.html#id_Toc165911096"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_155" playOrder="155">
+      <navLabel>
+        <text>پانچویں فصل</text>
+      </navLabel>
+      <content src="index_split_078.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_156" playOrder="156">
+      <navLabel>
+        <text>مفتری اور کذاب کا حکم</text>
+      </navLabel>
+      <content src="index_split_078.html#id_Toc165911098"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_157" playOrder="157">
+      <navLabel>
+        <text>چھٹی فصل</text>
+      </navLabel>
+      <content src="index_split_079.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_158" playOrder="158">
+      <navLabel>
+        <text>بے اختیار کلمۂ کفر نکلے تو کیا حکم ہے؟</text>
+      </navLabel>
+      <content src="index_split_079.html#id_Toc165911100"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_159" playOrder="159">
+      <navLabel>
+        <text>ساتویں فصل</text>
+      </navLabel>
+      <content src="index_split_080.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_160" playOrder="160">
+      <navLabel>
+        <text>انبیاءاور فرشتوں کی تنقیص کر نے والے کا حکم</text>
+      </navLabel>
+      <content src="index_split_080.html#id_Toc165911102"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_161" playOrder="161">
+      <navLabel>
+        <text>آٹھویں فصل</text>
+      </navLabel>
+      <content src="index_split_081.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_162" playOrder="162">
+      <navLabel>
+        <text>تحقیر واستخفاف قرآن کا حکم</text>
+      </navLabel>
+      <content src="index_split_081.html#id_Toc165911104"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_163" playOrder="163">
+      <navLabel>
+        <text>نویں فصل</text>
+      </navLabel>
+      <content src="index_split_082.html"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_164" playOrder="164">
+      <navLabel>
+        <text>اہل بیت نبوی ، آل پاک ، از واج مطہرات اور صحابۂ کرام علیہم الرضوان کو گالی دینے کا حکم</text>
+      </navLabel>
+      <content src="index_split_082.html#id_Toc165911106"/>
+    </navPoint>
+    <navPoint class="chapter" id="num_165" playOrder="165">
+      <navLabel>
+        <text>تمت بالخير</text>
+      </navLabel>
+      <content src="index_split_083.html"/>
+    </navPoint>
+  </navMap>
+</ncx>

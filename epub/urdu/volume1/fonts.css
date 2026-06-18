@@ -1,0 +1,61 @@
+@font-face {
+	font-family: "Payami Nastaleeq";
+	src: url(fonts/Payami-Nastaleeq.ttf)
+}
+
+@font-face {
+	font-family: "Aslam";
+	src: url(fonts/Aslam.ttf)
+}
+
+@font-face {
+	font-family: "Al_Mushaf";
+	src: url(fonts/Al_Mushaf.ttf)
+}
+
+@font-face {
+	font-family: "Times New Roman";
+	src: url(fonts/Times-New-Roman.ttf)
+}
+
+@font-face {
+	font-family: "noorehira";
+	src: url(fonts/noorehira.ttf)
+}
+
+@font-face {
+	font-family: "ادوبي نسخ الغريب";
+	font-weight: 500;
+	src: url(fonts/adwby-nskh-alGryb.ttf)
+}
+
+@font-face {
+	font-family: "Al Qalam Quran Majeed";
+	src: url(fonts/Al-Qalam-Quran-Majeed.ttf)
+}
+
+@font-face {
+	font-family: "Jameel Noori Nastaleeq";
+	src: url(fonts/Jameel-Noori-Nastaleeq.ttf)
+}
+
+@font-face {
+	font-family: "1 MUHAMMADI QURANIC";
+	src: url(fonts/1-MUHAMMADI-QURANIC.ttf)
+}
+
+@font-face {
+	font-family: "_PDMS_Saleem_QuranFont";
+	src: url(fonts/_PDMS_Saleem_QuranFont.ttf)
+}
+
+@font-face {
+	font-family: "Quranic_Font";
+	src: url(fonts/Quranic_Font.ttf)
+}
+
+@font-face {
+	font-family: "Cambria";
+	font-weight: bold;
+	src: url(fonts/Cambria-Bold.ttf)
+}

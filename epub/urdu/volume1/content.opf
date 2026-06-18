@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Shifa Shareef (vol.1) Urdu</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Imam Qaazi Iyaaz Maliki">Imam Qaazi Iyaaz Maliki</dc:creator>
+    <dc:cdetype>PDOC</dc:cdetype>
+    <dc:contributor opf:file-as="calibre (4.99.5) [https://calibre-ebook.com]" opf:role="ctb">calibre (4.99.5) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>2024-01-31T18:30:00+00:00</dc:date>
+    <dc:description>شفا شریف کا مقام:
+تذکرۃ الحفاظ میں امام ذہبی رحمۃ اللہ علیہ  فرماتے ہیں کہ ایک دفعہ خواب میں قاضی عیاض رحمۃ اللہ علیہ کے بھتیجے نے دیکھا کہ آپ رحمۃ اللہ علیہ  رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سونے کے تخت پر تشریف فرما ہیں، یہ منظر دیکھ کر اس پر ہیبت طاری ہوگئی۔
+قاضی عیاض رحمۃ اللہ علیہ  نے فرمایا کہ اے بھتیجے ’’کتاب الشفاء‘‘ کو مضبوطی سے پکڑے رہو اور اسے اپنے لیے دلیل راہ بناؤ گویا کہ آپ رحمۃ اللہ علیہ  نے اشارہ فرمایا کہ جو آج میرا یہ مقام تم دیکھ رہے ہو یہ ’’الشفاء‘‘ تحریر کرنے کے سبب سے ہے۔
+
+بارگاہ رسالت صلی اللہ علیہ وسلم میں مقبولیت پانے کے بعد ہر زمانے کے علما  وصلحا کی نظر میں یہ کتاب ایک خصوصی مقام کی حامل ہوگئی اور انھوں نے نظم و نثر میں اس کی تعریف فرمائی ہے۔ اس کتاب کی آج تک تقریباً ۲۶ کے قریب شروحات وتلخیصات ہو چکی تھیں جن میں ’’شرح ملاعلی قاری‘‘ اور                  ’’نسیم الریاض‘‘ حضرت علامہ احمد شہاب الدین خفاجی رحمۃ اللہ علیہ زیادہ مقبول ہیں۔
+
+الشفا پڑھنے کی فضیلت:
+حضرت علامہ احمد شہاب الدین خفاجی رحمۃ اللہ علیہ  فرماتے ہیں’’شفا  شریف‘‘ کا اسم اس کے مسمی کے موافق ہے کیوں کہ سلف صالحین رحمھم اللہ فرماتے ہیں کہ اس کا پڑھنا بیماریوں سے شفا اور مشکلات کے حل کے لیے بہترین اور مجرب عمل ہے۔
+اور نبی کریم صلی اللہ علیہ وسلم کی برکت سے اس کتاب کے پڑھنے سے ڈوبنے ، جلنے اور طاعون کی بیماریوں سے نجات رہتی ہے، غالباً اس کتاب کے بارے میں فرمایا کہ جس گھر میں یہ کتاب ہو وہاں جادواثر نہ کرے گا۔</dc:description>
+    <dc:identifier opf:scheme="UUID">dc9ab9a0-05c0-42c8-ae1c-4310b0187b2d</dc:identifier>
+    <dc:publisher>Mustafawi Publishing</dc:publisher>
+    <dc:language>ur</dc:language>
+    <dc:identifier opf:scheme="calibre">80242e22-b516-4641-b3d6-f46c794d7d44</dc:identifier>
+    <meta name="cover" content="ebook_id_cover"/>
+    <meta name="calibre:title_sort" content="Shifa Shareef (vol.1) Urdu"/>
+  </metadata>
+  <manifest>
+    <item href="Epub_Add_CoveHtml_1.html" id="ebook_id_htmlsrc" media-type="application/xhtml+xml"/>
+    <item href="index_split_000.html" id="id290" media-type="application/xhtml+xml"/>
+    <item href="index_split_001.html" id="id289" media-type="application/xhtml+xml"/>
+    <item href="index_split_002.html" id="id288" media-type="application/xhtml+xml"/>
+    <item href="index_split_003.html" id="id287" media-type="application/xhtml+xml"/>
+    <item href="index_split_004.html" id="id286" media-type="application/xhtml+xml"/>
+    <item href="index_split_005.html" id="id285" media-type="application/xhtml+xml"/>
+    <item href="index_split_006.html" id="id284" media-type="application/xhtml+xml"/>
+    <item href="index_split_007.html" id="id283" media-type="application/xhtml+xml"/>
+    <item href="index_split_008.html" id="id282" media-type="application/xhtml+xml"/>
+    <item href="index_split_009.html" id="id281" media-type="application/xhtml+xml"/>
+    <item href="index_split_010.html" id="id280" media-type="application/xhtml+xml"/>
+    <item href="index_split_011.html" id="id279" media-type="application/xhtml+xml"/>
+    <item href="index_split_012.html" id="id278" media-type="application/xhtml+xml"/>
+    <item href="index_split_013.html" id="id277" media-type="application/xhtml+xml"/>
+    <item href="index_split_014.html" id="id276" media-type="application/xhtml+xml"/>
+    <item href="index_split_015.html" id="id275" media-type="application/xhtml+xml"/>
+    <item href="index_split_016.html" id="id274" media-type="application/xhtml+xml"/>
+    <item href="index_split_017.html" id="id273" media-type="application/xhtml+xml"/>
+    <item href="index_split_018.html" id="id272" media-type="application/xhtml+xml"/>
+    <item href="index_split_019.html" id="id271" media-type="application/xhtml+xml"/>
+    <item href="index_split_020.html" id="id270" media-type="application/xhtml+xml"/>
+    <item href="index_split_021.html" id="id269" media-type="application/xhtml+xml"/>
+    <item href="index_split_022.html" id="id268" media-type="application/xhtml+xml"/>
+    <item href="index_split_023.html" id="id267" media-type="application/xhtml+xml"/>
+    <item href="index_split_024.html" id="id266" media-type="application/xhtml+xml"/>
+    <item href="index_split_025.html" id="id265" media-type="application/xhtml+xml"/>
+    <item href="index_split_026.html" id="id264" media-type="application/xhtml+xml"/>
+    <item href="index_split_027.html" id="id263" media-type="application/xhtml+xml"/>
+    <item href="index_split_028.html" id="id262" media-type="application/xhtml+xml"/>
+    <item href="index_split_029.html" id="id261" media-type="application/xhtml+xml"/>
+    <item href="index_split_030.html" id="id260" media-type="application/xhtml+xml"/>
+    <item href="index_split_031.html" id="id259" media-type="application/xhtml+xml"/>
+    <item href="index_split_032.html" id="id258" media-type="application/xhtml+xml"/>
+    <item href="index_split_033.html" id="id257" media-type="application/xhtml+xml"/>
+    <item href="index_split_034.html" id="id256" media-type="application/xhtml+xml"/>
+    <item href="index_split_035.html" id="id255" media-type="application/xhtml+xml"/>
+    <item href="index_split_036.html" id="id254" media-type="application/xhtml+xml"/>
+    <item href="index_split_037.html" id="id253" media-type="application/xhtml+xml"/>
+    <item href="index_split_038.html" id="id252" media-type="application/xhtml+xml"/>
+    <item href="index_split_039.html" id="id251" media-type="application/xhtml+xml"/>
+    <item href="index_split_040.html" id="id250" media-type="application/xhtml+xml"/>
+    <item href="index_split_041.html" id="id249" media-type="application/xhtml+xml"/>
+    <item href="index_split_042.html" id="id248" media-type="application/xhtml+xml"/>
+    <item href="index_split_043.html" id="id247" media-type="application/xhtml+xml"/>
+    <item href="index_split_044.html" id="id246" media-type="application/xhtml+xml"/>
+    <item href="index_split_045.html" id="id245" media-type="application/xhtml+xml"/>
+    <item href="index_split_046.html" id="id244" media-type="application/xhtml+xml"/>
+    <item href="index_split_047.html" id="id243" media-type="application/xhtml+xml"/>
+    <item href="index_split_048.html" id="id242" media-type="application/xhtml+xml"/>
+    <item href="index_split_049.html" id="id241" media-type="application/xhtml+xml"/>
+    <item href="index_split_050.html" id="id240" media-type="application/xhtml+xml"/>
+    <item href="index_split_051.html" id="id239" media-type="application/xhtml+xml"/>
+    <item href="index_split_052.html" id="id238" media-type="application/xhtml+xml"/>
+    <item href="index_split_053.html" id="id237" media-type="application/xhtml+xml"/>
+    <item href="index_split_054.html" id="id236" media-type="application/xhtml+xml"/>
+    <item href="index_split_055.html" id="id235" media-type="application/xhtml+xml"/>
+    <item href="index_split_056.html" id="id234" media-type="application/xhtml+xml"/>
+    <item href="index_split_057.html" id="id233" media-type="application/xhtml+xml"/>
+    <item href="index_split_058.html" id="id232" media-type="application/xhtml+xml"/>
+    <item href="index_split_059.html" id="id231" media-type="application/xhtml+xml"/>
+    <item href="index_split_060.html" id="id230" media-type="application/xhtml+xml"/>
+    <item href="index_split_061.html" id="id229" media-type="application/xhtml+xml"/>
+    <item href="index_split_062.html" id="id228" media-type="application/xhtml+xml"/>
+    <item href="index_split_063.html" id="id227" media-type="application/xhtml+xml"/>
+    <item href="index_split_064.html" id="id226" media-type="application/xhtml+xml"/>
+    <item href="index_split_065.html" id="id225" media-type="application/xhtml+xml"/>
+    <item href="index_split_066.html" id="id224" media-type="application/xhtml+xml"/>
+    <item href="index_split_067.html" id="id223" media-type="application/xhtml+xml"/>
+    <item href="index_split_068.html" id="id222" media-type="application/xhtml+xml"/>
+    <item href="index_split_069.html" id="id221" media-type="application/xhtml+xml"/>
+    <item href="index_split_070.html" id="id220" media-type="application/xhtml+xml"/>
+    <item href="index_split_071.html" id="id219" media-type="application/xhtml+xml"/>
+    <item href="index_split_072.html" id="id218" media-type="application/xhtml+xml"/>
+    <item href="index_split_073.html" id="id217" media-type="application/xhtml+xml"/>
+    <item href="index_split_074.html" id="id216" media-type="application/xhtml+xml"/>
+    <item href="index_split_075.html" id="id215" media-type="application/xhtml+xml"/>
+    <item href="index_split_076.html" id="id214" media-type="application/xhtml+xml"/>
+    <item href="index_split_077.html" id="id213" media-type="application/xhtml+xml"/>
+    <item href="index_split_078.html" id="id212" media-type="application/xhtml+xml"/>
+    <item href="index_split_079.html" id="id211" media-type="application/xhtml+xml"/>
+    <item href="index_split_080.html" id="id210" media-type="application/xhtml+xml"/>
+    <item href="index_split_081.html" id="id29" media-type="application/xhtml+xml"/>
+    <item href="index_split_082.html" id="id28" media-type="application/xhtml+xml"/>
+    <item href="index_split_083.html" id="id27" media-type="application/xhtml+xml"/>
+    <item href="index_split_084.html" id="id26" media-type="application/xhtml+xml"/>
+    <item href="index_split_085.html" id="id25" media-type="application/xhtml+xml"/>
+    <item href="index_split_086.html" id="id24" media-type="application/xhtml+xml"/>
+    <item href="index_split_087.html" id="id23" media-type="application/xhtml+xml"/>
+    <item href="index_split_088.html" id="id22" media-type="application/xhtml+xml"/>
+    <item href="index_split_089.html" id="id21" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="Epub_Add_CoverImg_1.jpg" id="ebook_id_cover" media-type="image/jpeg"/>
+    <item id="font" href="fonts/Payami-Nastaleeq.ttf" media-type="application/x-font-truetype"/>
+    <item id="font1" href="fonts/Aslam.ttf" media-type="application/x-font-truetype"/>
+    <item id="font2" href="fonts/Al_Mushaf.ttf" media-type="application/x-font-truetype"/>
+    <item id="font3" href="fonts/Times-New-Roman.ttf" media-type="application/x-font-truetype"/>
+    <item id="font4" href="fonts/noorehira.ttf" media-type="application/x-font-truetype"/>
+    <item id="font5" href="fonts/adwby-nskh-alGryb.ttf" media-type="application/x-font-truetype"/>
+    <item id="font6" href="fonts/Al-Qalam-Quran-Majeed.ttf" media-type="application/x-font-truetype"/>
+    <item id="font7" href="fonts/Jameel-Noori-Nastaleeq.ttf" media-type="application/x-font-truetype"/>
+    <item id="font8" href="fonts/1-MUHAMMADI-QURANIC.ttf" media-type="application/x-font-truetype"/>
+    <item id="font9" href="fonts/_PDMS_Saleem_QuranFont.ttf" media-type="application/x-font-truetype"/>
+    <item id="font10" href="fonts/Quranic_Font.ttf" media-type="application/x-font-truetype"/>
+    <item id="font11" href="fonts/Cambria-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item id="font_embed" href="fonts.css" media-type="text/css"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="ebook_id_htmlsrc"/>
+    <itemref idref="id290"/>
+    <itemref idref="id289"/>
+    <itemref idref="id288"/>
+    <itemref idref="id287"/>
+    <itemref idref="id286"/>
+    <itemref idref="id285"/>
+    <itemref idref="id284"/>
+    <itemref idref="id283"/>
+    <itemref idref="id282"/>
+    <itemref idref="id281"/>
+    <itemref idref="id280"/>
+    <itemref idref="id279"/>
+    <itemref idref="id278"/>
+    <itemref idref="id277"/>
+    <itemref idref="id276"/>
+    <itemref idref="id275"/>
+    <itemref idref="id274"/>
+    <itemref idref="id273"/>
+    <itemref idref="id272"/>
+    <itemref idref="id271"/>
+    <itemref idref="id270"/>
+    <itemref idref="id269"/>
+    <itemref idref="id268"/>
+    <itemref idref="id267"/>
+    <itemref idref="id266"/>
+    <itemref idref="id265"/>
+    <itemref idref="id264"/>
+    <itemref idref="id263"/>
+    <itemref idref="id262"/>
+    <itemref idref="id261"/>
+    <itemref idref="id260"/>
+    <itemref idref="id259"/>
+    <itemref idref="id258"/>
+    <itemref idref="id257"/>
+    <itemref idref="id256"/>
+    <itemref idref="id255"/>
+    <itemref idref="id254"/>
+    <itemref idref="id253"/>
+    <itemref idref="id252"/>
+    <itemref idref="id251"/>
+    <itemref idref="id250"/>
+    <itemref idref="id249"/>
+    <itemref idref="id248"/>
+    <itemref idref="id247"/>
+    <itemref idref="id246"/>
+    <itemref idref="id245"/>
+    <itemref idref="id244"/>
+    <itemref idref="id243"/>
+    <itemref idref="id242"/>
+    <itemref idref="id241"/>
+    <itemref idref="id240"/>
+    <itemref idref="id239"/>
+    <itemref idref="id238"/>
+    <itemref idref="id237"/>
+    <itemref idref="id236"/>
+    <itemref idref="id235"/>
+    <itemref idref="id234"/>
+    <itemref idref="id233"/>
+    <itemref idref="id232"/>
+    <itemref idref="id231"/>
+    <itemref idref="id230"/>
+    <itemref idref="id229"/>
+    <itemref idref="id228"/>
+    <itemref idref="id227"/>
+    <itemref idref="id226"/>
+    <itemref idref="id225"/>
+    <itemref idref="id224"/>
+    <itemref idref="id223"/>
+    <itemref idref="id222"/>
+    <itemref idref="id221"/>
+    <itemref idref="id220"/>
+    <itemref idref="id219"/>
+    <itemref idref="id218"/>
+    <itemref idref="id217"/>
+    <itemref idref="id216"/>
+    <itemref idref="id215"/>
+    <itemref idref="id214"/>
+    <itemref idref="id213"/>
+    <itemref idref="id212"/>
+    <itemref idref="id211"/>
+    <itemref idref="id210"/>
+    <itemref idref="id29"/>
+    <itemref idref="id28"/>
+    <itemref idref="id27"/>
+    <itemref idref="id26"/>
+    <itemref idref="id25"/>
+    <itemref idref="id24"/>
+    <itemref idref="id23"/>
+    <itemref idref="id22"/>
+    <itemref idref="id21"/>
+  </spine>
+</package>

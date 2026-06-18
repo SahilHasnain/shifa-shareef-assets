@@ -1,0 +1,604 @@
+{
+  "version": 1,
+  "source": "volume2.epub",
+  "title": "Shifa Shareef Urdu (Vol.2)",
+  "opfPath": "content.opf",
+  "generatedAt": "2026-06-18T03:59:41.500Z",
+  "chapters": [
+    {
+      "id": "ebook_id_htmlsrc",
+      "title": "Cover",
+      "href": "Epub_Add_CoveHtml_1.html",
+      "startProgressPercent": 0,
+      "endProgressPercent": 0.011764705882352941
+    },
+    {
+      "id": "id284",
+      "title": "Introduction",
+      "href": "index_split_000.html",
+      "startProgressPercent": 0.011764705882352941,
+      "endProgressPercent": 0.023529411764705882
+    },
+    {
+      "id": "id283",
+      "title": "قسم دوم",
+      "href": "index_split_001.html",
+      "startProgressPercent": 0.023529411764705882,
+      "endProgressPercent": 0.03529411764705882
+    },
+    {
+      "id": "id282",
+      "title": "پہلا باب",
+      "href": "index_split_002.html",
+      "startProgressPercent": 0.03529411764705882,
+      "endProgressPercent": 0.047058823529411764
+    },
+    {
+      "id": "id281",
+      "title": "پہلی فصل",
+      "href": "index_split_003.html",
+      "startProgressPercent": 0.047058823529411764,
+      "endProgressPercent": 0.058823529411764705
+    },
+    {
+      "id": "id280",
+      "title": "دوسری فصل",
+      "href": "index_split_004.html",
+      "startProgressPercent": 0.058823529411764705,
+      "endProgressPercent": 0.07058823529411765
+    },
+    {
+      "id": "id279",
+      "title": "تیسری فصل",
+      "href": "index_split_005.html",
+      "startProgressPercent": 0.07058823529411765,
+      "endProgressPercent": 0.08235294117647059
+    },
+    {
+      "id": "id278",
+      "title": "چوتھی فصل",
+      "href": "index_split_006.html",
+      "startProgressPercent": 0.08235294117647059,
+      "endProgressPercent": 0.09411764705882353
+    },
+    {
+      "id": "id277",
+      "title": "دوسرا باب",
+      "href": "index_split_007.html",
+      "startProgressPercent": 0.09411764705882353,
+      "endProgressPercent": 0.10588235294117647
+    },
+    {
+      "id": "id276",
+      "title": "پہلی فصل",
+      "href": "index_split_008.html",
+      "startProgressPercent": 0.10588235294117647,
+      "endProgressPercent": 0.11764705882352941
+    },
+    {
+      "id": "id275",
+      "title": "دوسری فصل",
+      "href": "index_split_009.html",
+      "startProgressPercent": 0.11764705882352941,
+      "endProgressPercent": 0.12941176470588237
+    },
+    {
+      "id": "id274",
+      "title": "تیسری فصل",
+      "href": "index_split_010.html",
+      "startProgressPercent": 0.12941176470588237,
+      "endProgressPercent": 0.1411764705882353
+    },
+    {
+      "id": "id273",
+      "title": "چوتھی فصل",
+      "href": "index_split_011.html",
+      "startProgressPercent": 0.1411764705882353,
+      "endProgressPercent": 0.15294117647058825
+    },
+    {
+      "id": "id272",
+      "title": "پانچویں فصل",
+      "href": "index_split_012.html",
+      "startProgressPercent": 0.15294117647058825,
+      "endProgressPercent": 0.16470588235294117
+    },
+    {
+      "id": "id271",
+      "title": "تیسرا باب",
+      "href": "index_split_013.html",
+      "startProgressPercent": 0.16470588235294117,
+      "endProgressPercent": 0.17647058823529413
+    },
+    {
+      "id": "id270",
+      "title": "پہلی فصل",
+      "href": "index_split_014.html",
+      "startProgressPercent": 0.17647058823529413,
+      "endProgressPercent": 0.18823529411764706
+    },
+    {
+      "id": "id269",
+      "title": "دوسری فصل",
+      "href": "index_split_015.html",
+      "startProgressPercent": 0.18823529411764706,
+      "endProgressPercent": 0.2
+    },
+    {
+      "id": "id268",
+      "title": "تیسری فصل",
+      "href": "index_split_016.html",
+      "startProgressPercent": 0.2,
+      "endProgressPercent": 0.21176470588235294
+    },
+    {
+      "id": "id267",
+      "title": "چوتھی فصل",
+      "href": "index_split_017.html",
+      "startProgressPercent": 0.21176470588235294,
+      "endProgressPercent": 0.2235294117647059
+    },
+    {
+      "id": "id266",
+      "title": "پانچویں فصل",
+      "href": "index_split_018.html",
+      "startProgressPercent": 0.2235294117647059,
+      "endProgressPercent": 0.23529411764705882
+    },
+    {
+      "id": "id265",
+      "title": "چھٹی فصل",
+      "href": "index_split_019.html",
+      "startProgressPercent": 0.23529411764705882,
+      "endProgressPercent": 0.24705882352941178
+    },
+    {
+      "id": "id264",
+      "title": "چھوتھا باب",
+      "href": "index_split_020.html",
+      "startProgressPercent": 0.24705882352941178,
+      "endProgressPercent": 0.25882352941176473
+    },
+    {
+      "id": "id263",
+      "title": "پہلی فصل",
+      "href": "index_split_021.html",
+      "startProgressPercent": 0.25882352941176473,
+      "endProgressPercent": 0.27058823529411763
+    },
+    {
+      "id": "id262",
+      "title": "دوسری فصل",
+      "href": "index_split_022.html",
+      "startProgressPercent": 0.27058823529411763,
+      "endProgressPercent": 0.2823529411764706
+    },
+    {
+      "id": "id261",
+      "title": "تیسری فصل",
+      "href": "index_split_023.html",
+      "startProgressPercent": 0.2823529411764706,
+      "endProgressPercent": 0.29411764705882354
+    },
+    {
+      "id": "id260",
+      "title": "چوتھی فصل",
+      "href": "index_split_024.html",
+      "startProgressPercent": 0.29411764705882354,
+      "endProgressPercent": 0.3058823529411765
+    },
+    {
+      "id": "id259",
+      "title": "پانچویں فصل",
+      "href": "index_split_025.html",
+      "startProgressPercent": 0.3058823529411765,
+      "endProgressPercent": 0.3176470588235294
+    },
+    {
+      "id": "id258",
+      "title": "چھٹی فصل",
+      "href": "index_split_026.html",
+      "startProgressPercent": 0.3176470588235294,
+      "endProgressPercent": 0.32941176470588235
+    },
+    {
+      "id": "id257",
+      "title": "ساتویں فصل",
+      "href": "index_split_027.html",
+      "startProgressPercent": 0.32941176470588235,
+      "endProgressPercent": 0.3411764705882353
+    },
+    {
+      "id": "id256",
+      "title": "آٹھویں فصل",
+      "href": "index_split_028.html",
+      "startProgressPercent": 0.3411764705882353,
+      "endProgressPercent": 0.35294117647058826
+    },
+    {
+      "id": "id255",
+      "title": "نویں فصل",
+      "href": "index_split_029.html",
+      "startProgressPercent": 0.35294117647058826,
+      "endProgressPercent": 0.36470588235294116
+    },
+    {
+      "id": "id254",
+      "title": "قسم سوم",
+      "href": "index_split_030.html",
+      "startProgressPercent": 0.36470588235294116,
+      "endProgressPercent": 0.3764705882352941
+    },
+    {
+      "id": "id253",
+      "title": "پہلا باب",
+      "href": "index_split_031.html",
+      "startProgressPercent": 0.3764705882352941,
+      "endProgressPercent": 0.38823529411764707
+    },
+    {
+      "id": "id252",
+      "title": "پہلی فصل",
+      "href": "index_split_032.html",
+      "startProgressPercent": 0.38823529411764707,
+      "endProgressPercent": 0.4
+    },
+    {
+      "id": "id251",
+      "title": "دوسری فصل",
+      "href": "index_split_033.html",
+      "startProgressPercent": 0.4,
+      "endProgressPercent": 0.4117647058823529
+    },
+    {
+      "id": "id250",
+      "title": "تیسری فصل",
+      "href": "index_split_034.html",
+      "startProgressPercent": 0.4117647058823529,
+      "endProgressPercent": 0.4235294117647059
+    },
+    {
+      "id": "id249",
+      "title": "چوتھی فصل",
+      "href": "index_split_035.html",
+      "startProgressPercent": 0.4235294117647059,
+      "endProgressPercent": 0.43529411764705883
+    },
+    {
+      "id": "id248",
+      "title": "پانچویں فصل",
+      "href": "index_split_036.html",
+      "startProgressPercent": 0.43529411764705883,
+      "endProgressPercent": 0.4470588235294118
+    },
+    {
+      "id": "id247",
+      "title": "چھٹی فصل",
+      "href": "index_split_037.html",
+      "startProgressPercent": 0.4470588235294118,
+      "endProgressPercent": 0.4588235294117647
+    },
+    {
+      "id": "id246",
+      "title": "ساتویں فصل",
+      "href": "index_split_038.html",
+      "startProgressPercent": 0.4588235294117647,
+      "endProgressPercent": 0.47058823529411764
+    },
+    {
+      "id": "id245",
+      "title": "آٹھویں فصل",
+      "href": "index_split_039.html",
+      "startProgressPercent": 0.47058823529411764,
+      "endProgressPercent": 0.4823529411764706
+    },
+    {
+      "id": "id244",
+      "title": "نویں فصل",
+      "href": "index_split_040.html",
+      "startProgressPercent": 0.4823529411764706,
+      "endProgressPercent": 0.49411764705882355
+    },
+    {
+      "id": "id243",
+      "title": "دسویں فصل",
+      "href": "index_split_041.html",
+      "startProgressPercent": 0.49411764705882355,
+      "endProgressPercent": 0.5058823529411764
+    },
+    {
+      "id": "id242",
+      "title": "گیارہویں فصل",
+      "href": "index_split_042.html",
+      "startProgressPercent": 0.5058823529411764,
+      "endProgressPercent": 0.5176470588235295
+    },
+    {
+      "id": "id241",
+      "title": "بارہویں فصل",
+      "href": "index_split_043.html",
+      "startProgressPercent": 0.5176470588235295,
+      "endProgressPercent": 0.5294117647058824
+    },
+    {
+      "id": "id240",
+      "title": "تیرہویں فصل",
+      "href": "index_split_044.html",
+      "startProgressPercent": 0.5294117647058824,
+      "endProgressPercent": 0.5411764705882353
+    },
+    {
+      "id": "id239",
+      "title": "چودہویں فصل",
+      "href": "index_split_045.html",
+      "startProgressPercent": 0.5411764705882353,
+      "endProgressPercent": 0.5529411764705883
+    },
+    {
+      "id": "id238",
+      "title": "پندرہویں فصل",
+      "href": "index_split_046.html",
+      "startProgressPercent": 0.5529411764705883,
+      "endProgressPercent": 0.5647058823529412
+    },
+    {
+      "id": "id237",
+      "title": "سولہویں فصل",
+      "href": "index_split_047.html",
+      "startProgressPercent": 0.5647058823529412,
+      "endProgressPercent": 0.5764705882352941
+    },
+    {
+      "id": "id236",
+      "title": "دوسرا باب",
+      "href": "index_split_048.html",
+      "startProgressPercent": 0.5764705882352941,
+      "endProgressPercent": 0.5882352941176471
+    },
+    {
+      "id": "id235",
+      "title": "پہلی فصل",
+      "href": "index_split_049.html",
+      "startProgressPercent": 0.5882352941176471,
+      "endProgressPercent": 0.6
+    },
+    {
+      "id": "id234",
+      "title": "دوسری فصل",
+      "href": "index_split_050.html",
+      "startProgressPercent": 0.6,
+      "endProgressPercent": 0.611764705882353
+    },
+    {
+      "id": "id233",
+      "title": "تیسری فصل",
+      "href": "index_split_051.html",
+      "startProgressPercent": 0.611764705882353,
+      "endProgressPercent": 0.6235294117647059
+    },
+    {
+      "id": "id232",
+      "title": "چوتھی فصل",
+      "href": "index_split_052.html",
+      "startProgressPercent": 0.6235294117647059,
+      "endProgressPercent": 0.6352941176470588
+    },
+    {
+      "id": "id231",
+      "title": "پانچویں فصل",
+      "href": "index_split_053.html",
+      "startProgressPercent": 0.6352941176470588,
+      "endProgressPercent": 0.6470588235294118
+    },
+    {
+      "id": "id230",
+      "title": "چھٹی فصل",
+      "href": "index_split_054.html",
+      "startProgressPercent": 0.6470588235294118,
+      "endProgressPercent": 0.6588235294117647
+    },
+    {
+      "id": "id229",
+      "title": "ساتویں فصل",
+      "href": "index_split_055.html",
+      "startProgressPercent": 0.6588235294117647,
+      "endProgressPercent": 0.6705882352941176
+    },
+    {
+      "id": "id228",
+      "title": "آٹھویں فصل",
+      "href": "index_split_056.html",
+      "startProgressPercent": 0.6705882352941176,
+      "endProgressPercent": 0.6823529411764706
+    },
+    {
+      "id": "id227",
+      "title": "قسم چہارم",
+      "href": "index_split_057.html",
+      "startProgressPercent": 0.6823529411764706,
+      "endProgressPercent": 0.6941176470588235
+    },
+    {
+      "id": "id226",
+      "title": "پہلا باب",
+      "href": "index_split_058.html",
+      "startProgressPercent": 0.6941176470588235,
+      "endProgressPercent": 0.7058823529411765
+    },
+    {
+      "id": "id225",
+      "title": "پہلی فصل",
+      "href": "index_split_059.html",
+      "startProgressPercent": 0.7058823529411765,
+      "endProgressPercent": 0.7176470588235294
+    },
+    {
+      "id": "id224",
+      "title": "دوسری فصل",
+      "href": "index_split_060.html",
+      "startProgressPercent": 0.7176470588235294,
+      "endProgressPercent": 0.7294117647058823
+    },
+    {
+      "id": "id223",
+      "title": "تیسری فصل",
+      "href": "index_split_061.html",
+      "startProgressPercent": 0.7294117647058823,
+      "endProgressPercent": 0.7411764705882353
+    },
+    {
+      "id": "id222",
+      "title": "چوتھی فصل",
+      "href": "index_split_062.html",
+      "startProgressPercent": 0.7411764705882353,
+      "endProgressPercent": 0.7529411764705882
+    },
+    {
+      "id": "id221",
+      "title": "پانچویں فصل",
+      "href": "index_split_063.html",
+      "startProgressPercent": 0.7529411764705882,
+      "endProgressPercent": 0.7647058823529411
+    },
+    {
+      "id": "id220",
+      "title": "چھٹی فصل",
+      "href": "index_split_064.html",
+      "startProgressPercent": 0.7647058823529411,
+      "endProgressPercent": 0.7764705882352941
+    },
+    {
+      "id": "id219",
+      "title": "ساتویں فصل",
+      "href": "index_split_065.html",
+      "startProgressPercent": 0.7764705882352941,
+      "endProgressPercent": 0.788235294117647
+    },
+    {
+      "id": "id218",
+      "title": "آٹھویں فصل",
+      "href": "index_split_066.html",
+      "startProgressPercent": 0.788235294117647,
+      "endProgressPercent": 0.8
+    },
+    {
+      "id": "id217",
+      "title": "نویں فصل",
+      "href": "index_split_067.html",
+      "startProgressPercent": 0.8,
+      "endProgressPercent": 0.8117647058823529
+    },
+    {
+      "id": "id216",
+      "title": "دوسرا باب",
+      "href": "index_split_068.html",
+      "startProgressPercent": 0.8117647058823529,
+      "endProgressPercent": 0.8235294117647058
+    },
+    {
+      "id": "id215",
+      "title": "پہلی فصل",
+      "href": "index_split_069.html",
+      "startProgressPercent": 0.8235294117647058,
+      "endProgressPercent": 0.8352941176470589
+    },
+    {
+      "id": "id214",
+      "title": "دوسری فصل",
+      "href": "index_split_070.html",
+      "startProgressPercent": 0.8352941176470589,
+      "endProgressPercent": 0.8470588235294118
+    },
+    {
+      "id": "id213",
+      "title": "تیسری فصل",
+      "href": "index_split_071.html",
+      "startProgressPercent": 0.8470588235294118,
+      "endProgressPercent": 0.8588235294117647
+    },
+    {
+      "id": "id212",
+      "title": "چوتھی فصل",
+      "href": "index_split_072.html",
+      "startProgressPercent": 0.8588235294117647,
+      "endProgressPercent": 0.8705882352941177
+    },
+    {
+      "id": "id211",
+      "title": "تیسرا باب",
+      "href": "index_split_073.html",
+      "startProgressPercent": 0.8705882352941177,
+      "endProgressPercent": 0.8823529411764706
+    },
+    {
+      "id": "id210",
+      "title": "پہلی فصل",
+      "href": "index_split_074.html",
+      "startProgressPercent": 0.8823529411764706,
+      "endProgressPercent": 0.8941176470588236
+    },
+    {
+      "id": "id29",
+      "title": "دوسری فصل",
+      "href": "index_split_075.html",
+      "startProgressPercent": 0.8941176470588236,
+      "endProgressPercent": 0.9058823529411765
+    },
+    {
+      "id": "id28",
+      "title": "تیسری فصل",
+      "href": "index_split_076.html",
+      "startProgressPercent": 0.9058823529411765,
+      "endProgressPercent": 0.9176470588235294
+    },
+    {
+      "id": "id27",
+      "title": "چوتھی فصل",
+      "href": "index_split_077.html",
+      "startProgressPercent": 0.9176470588235294,
+      "endProgressPercent": 0.9294117647058824
+    },
+    {
+      "id": "id26",
+      "title": "پانچویں فصل",
+      "href": "index_split_078.html",
+      "startProgressPercent": 0.9294117647058824,
+      "endProgressPercent": 0.9411764705882353
+    },
+    {
+      "id": "id25",
+      "title": "چھٹی فصل",
+      "href": "index_split_079.html",
+      "startProgressPercent": 0.9411764705882353,
+      "endProgressPercent": 0.9529411764705882
+    },
+    {
+      "id": "id24",
+      "title": "ساتویں فصل",
+      "href": "index_split_080.html",
+      "startProgressPercent": 0.9529411764705882,
+      "endProgressPercent": 0.9647058823529412
+    },
+    {
+      "id": "id23",
+      "title": "آٹھویں فصل",
+      "href": "index_split_081.html",
+      "startProgressPercent": 0.9647058823529412,
+      "endProgressPercent": 0.9764705882352941
+    },
+    {
+      "id": "id22",
+      "title": "نویں فصل",
+      "href": "index_split_082.html",
+      "startProgressPercent": 0.9764705882352941,
+      "endProgressPercent": 0.9882352941176471
+    },
+    {
+      "id": "id21",
+      "title": "تمت بالخير",
+      "href": "index_split_083.html",
+      "startProgressPercent": 0.9882352941176471,
+      "endProgressPercent": 1
+    }
+  ]
+}

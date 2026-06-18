@@ -1,0 +1,170 @@
+{
+  "version": 1,
+  "source": "volume1.epub",
+  "title": "Shifa Shareef (Roman Urdu)",
+  "opfPath": "content.opf",
+  "generatedAt": "2026-06-18T03:59:41.266Z",
+  "chapters": [
+    {
+      "id": "ebook_id_htmlsrc",
+      "title": "Cover",
+      "href": "Epub_Add_CoveHtml_1.html",
+      "startProgressPercent": 0,
+      "endProgressPercent": 0.043478260869565216
+    },
+    {
+      "id": "id222",
+      "title": "Introduction",
+      "href": "index_split_000.html",
+      "startProgressPercent": 0.043478260869565216,
+      "endProgressPercent": 0.08695652173913043
+    },
+    {
+      "id": "id221",
+      "title": "Publisher's Note",
+      "href": "index_split_001.html",
+      "startProgressPercent": 0.08695652173913043,
+      "endProgressPercent": 0.13043478260869565
+    },
+    {
+      "id": "id220",
+      "title": "Musannif ke baare mein",
+      "href": "index_split_002.html",
+      "startProgressPercent": 0.13043478260869565,
+      "endProgressPercent": 0.17391304347826086
+    },
+    {
+      "id": "id219",
+      "title": "Urdu tarjama karne waale",
+      "href": "index_split_003.html",
+      "startProgressPercent": 0.17391304347826086,
+      "endProgressPercent": 0.21739130434782608
+    },
+    {
+      "id": "id218",
+      "title": "Muqaddima",
+      "href": "index_split_004.html",
+      "startProgressPercent": 0.21739130434782608,
+      "endProgressPercent": 0.2608695652173913
+    },
+    {
+      "id": "id217",
+      "title": "Pehli Qism",
+      "href": "index_split_005.html",
+      "startProgressPercent": 0.2608695652173913,
+      "endProgressPercent": 0.30434782608695654
+    },
+    {
+      "id": "id216",
+      "title": "Teesri fasl: Allah ka Huzoor ko bade ehsan ke saath yaad karna",
+      "href": "index_split_006.html",
+      "startProgressPercent": 0.30434782608695654,
+      "endProgressPercent": 0.34782608695652173
+    },
+    {
+      "id": "id215",
+      "title": "Dusra baab: Huzoor alaihissalam khalqe azeem aur deeni dunyawi fazail mein kaamil hain",
+      "href": "index_split_007.html",
+      "startProgressPercent": 0.34782608695652173,
+      "endProgressPercent": 0.391304347826087
+    },
+    {
+      "id": "id214",
+      "title": "Unniswi fasl: Huzoor ka tawaaze farmana",
+      "href": "index_split_008.html",
+      "startProgressPercent": 0.391304347826087,
+      "endProgressPercent": 0.43478260869565216
+    },
+    {
+      "id": "id213",
+      "title": "Teesra baab: Huzoor ki qadro manzilat ahadees ki raushni mein",
+      "href": "index_split_009.html",
+      "startProgressPercent": 0.43478260869565216,
+      "endProgressPercent": 0.4782608695652174
+    },
+    {
+      "id": "id212",
+      "title": "Chautha baab: Huzoor alaihissalam ke mojizaat",
+      "href": "index_split_010.html",
+      "startProgressPercent": 0.4782608695652174,
+      "endProgressPercent": 0.5217391304347826
+    },
+    {
+      "id": "id211",
+      "title": "Dusri qism",
+      "href": "index_split_011.html",
+      "startProgressPercent": 0.5217391304347826,
+      "endProgressPercent": 0.5652173913043478
+    },
+    {
+      "id": "id210",
+      "title": "Dusra baab: Ummat par Huzoor alaihissalam ki muhabbat laazimo wajib hai",
+      "href": "index_split_012.html",
+      "startProgressPercent": 0.5652173913043478,
+      "endProgressPercent": 0.6086956521739131
+    },
+    {
+      "id": "id29",
+      "title": "Teesra baab: Huzoor alaihissalam ki tazeem wa tauqeer aur adaa -e- huqooq ka hukm aur iska wujoob",
+      "href": "index_split_013.html",
+      "startProgressPercent": 0.6086956521739131,
+      "endProgressPercent": 0.6521739130434783
+    },
+    {
+      "id": "id28",
+      "title": "Chautha baab: Duroodo Salam ki farziyat wa fazeelat",
+      "href": "index_split_014.html",
+      "startProgressPercent": 0.6521739130434783,
+      "endProgressPercent": 0.6956521739130435
+    },
+    {
+      "id": "id27",
+      "title": "Teesri qism",
+      "href": "index_split_015.html",
+      "startProgressPercent": 0.6956521739130435,
+      "endProgressPercent": 0.7391304347826086
+    },
+    {
+      "id": "id26",
+      "title": "Pehla baab: Umoore deeniya aur ismate ambiya",
+      "href": "index_split_016.html",
+      "startProgressPercent": 0.7391304347826086,
+      "endProgressPercent": 0.782608695652174
+    },
+    {
+      "id": "id25",
+      "title": "Dusra baab: Dunyawi umoor mein Ambiya ki khusoosiyat aur un par awaarize bashariya ka itlaaq",
+      "href": "index_split_017.html",
+      "startProgressPercent": 0.782608695652174,
+      "endProgressPercent": 0.8260869565217391
+    },
+    {
+      "id": "id24",
+      "title": "Chauthi Qism",
+      "href": "index_split_018.html",
+      "startProgressPercent": 0.8260869565217391,
+      "endProgressPercent": 0.8695652173913043
+    },
+    {
+      "id": "id23",
+      "title": "Pehla baab: Wo alfaaz jisne tauheen aur gustakhi hoti hai",
+      "href": "index_split_019.html",
+      "startProgressPercent": 0.8695652173913043,
+      "endProgressPercent": 0.9130434782608695
+    },
+    {
+      "id": "id22",
+      "title": "Dusra baab: Huzoor ke gustakh ki uqubat wa wirasat ka hukm",
+      "href": "index_split_020.html",
+      "startProgressPercent": 0.9130434782608695,
+      "endProgressPercent": 0.9565217391304348
+    },
+    {
+      "id": "id21",
+      "title": "Teesra baab",
+      "href": "index_split_021.html",
+      "startProgressPercent": 0.9565217391304348,
+      "endProgressPercent": 1
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: "Calibri";
+    src: url("fonts/Calibri - Regular.ttf")
+    }
+@font-face {
+    font-family: "Adobe Garamond Pro";
+    src: url("fonts/Adobe Garamond Pro - Regular.ttf")
+    }
+@font-face {
+    font-family: "Wensley Demo";
+    src: url("fonts/Wensley Demo - Regular.ttf")
+    }
+@font-face {
+    font-family: "ادوبي نسخ الغريب";
+    src: url("fonts/adwby nskh alGryb - Regular.ttf")
+    }
+@font-face {
+    font-family: "Al_Mushaf";
+    src: url("fonts/Al_Mushaf - Regular.ttf")
+    }
