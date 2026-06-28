@@ -427,7 +427,7 @@
     },
     {
       "id": "spine-item-060",
-      "title": "Fifth Section: Huzoor Seeing Allah <sup>عز وجل</sup>",
+      "title": "Fifth Section: Huzoor Seeing Allah <sup>Ø¹Ø² ÙˆØ¬Ù„</sup>",
       "href": "section-57.xhtml",
       "startProgressPercent": 0.307692,
       "endProgressPercent": 0.312821
@@ -1369,6 +1369,1338 @@
       "href": "section-191.xhtml",
       "startProgressPercent": 0.994872,
       "endProgressPercent": 1.0
+    }
+  ],
+  "toc": [
+    {
+      "label": "Front Matter",
+      "href": "cover.xhtml",
+      "src": "cover.xhtml",
+      "level": 0,
+      "chapterIndex": 0
+    },
+    {
+      "label": "Cover",
+      "href": "cover.xhtml",
+      "src": "cover.xhtml",
+      "level": 1,
+      "chapterIndex": 0
+    },
+    {
+      "label": "Title Page",
+      "href": "title.xhtml",
+      "src": "title.xhtml",
+      "level": 1,
+      "chapterIndex": 1
+    },
+    {
+      "label": "Publisher's Note",
+      "href": "publishers-note.xhtml",
+      "src": "publishers-note.xhtml",
+      "level": 1,
+      "chapterIndex": 2
+    },
+    {
+      "label": "Contents",
+      "href": "contents.xhtml",
+      "src": "contents.xhtml",
+      "level": 1,
+      "chapterIndex": 3
+    },
+    {
+      "label": "About The Author",
+      "href": "section-01.xhtml",
+      "src": "section-01.xhtml",
+      "level": 1,
+      "chapterIndex": 4
+    },
+    {
+      "label": "The Urdu Translator",
+      "href": "section-11.xhtml",
+      "src": "section-11.xhtml",
+      "level": 1,
+      "chapterIndex": 14
+    },
+    {
+      "label": "Introduction",
+      "href": "section-13.xhtml",
+      "src": "section-13.xhtml",
+      "level": 1,
+      "chapterIndex": 16
+    },
+    {
+      "label": "First Part",
+      "href": "section-14.xhtml",
+      "src": "section-14.xhtml",
+      "level": 0,
+      "chapterIndex": 17
+    },
+    {
+      "label": "Chapter One: The Praise Of Huzoor In The Qur'an",
+      "href": "section-15.xhtml",
+      "src": "section-15.xhtml",
+      "level": 1,
+      "chapterIndex": 18
+    },
+    {
+      "label": "First Section: Verses Revealed In Praise Of Huzoor",
+      "href": "section-16.xhtml",
+      "src": "section-16.xhtml",
+      "level": 2,
+      "chapterIndex": 19
+    },
+    {
+      "label": "Second Section: Allah Made Huzoor A Witness And Praised Him",
+      "href": "section-17.xhtml",
+      "src": "section-17.xhtml",
+      "level": 2,
+      "chapterIndex": 20
+    },
+    {
+      "label": "Third Section: Allah Mentioned Huzoor With Great Favor",
+      "href": "section-18.xhtml",
+      "src": "section-18.xhtml",
+      "level": 2,
+      "chapterIndex": 21
+    },
+    {
+      "label": "Fourth Section: Allah Swore By The Rank Of Huzoor",
+      "href": "section-19.xhtml",
+      "src": "section-19.xhtml",
+      "level": 2,
+      "chapterIndex": 22
+    },
+    {
+      "label": "Fifth Section: Allah Swore By The Rank Granted To Huzoor In The Divine Court",
+      "href": "section-20.xhtml",
+      "src": "section-20.xhtml",
+      "level": 2,
+      "chapterIndex": 23
+    },
+    {
+      "label": "Sixth Section: Allah's Compassion And Generosity Toward Huzoor",
+      "href": "section-21.xhtml",
+      "src": "section-21.xhtml",
+      "level": 2,
+      "chapterIndex": 24
+    },
+    {
+      "label": "Seventh Section: The Superiority Of Huzoor Over The Prophets In The Qur'an",
+      "href": "section-22.xhtml",
+      "src": "section-22.xhtml",
+      "level": 2,
+      "chapterIndex": 25
+    },
+    {
+      "label": "Eighth Section: Allah Sending Durood Upon Huzoor And Removing Punishment Because Of Him",
+      "href": "section-23.xhtml",
+      "src": "section-23.xhtml",
+      "level": 2,
+      "chapterIndex": 26
+    },
+    {
+      "label": "Ninth Section: The Greatness Of Huzoor In Surah al-Fath",
+      "href": "section-24.xhtml",
+      "src": "section-24.xhtml",
+      "level": 2,
+      "chapterIndex": 27
+    },
+    {
+      "label": "Tenth Section: The Blessed Mention Of Huzoor In The Noble Book",
+      "href": "section-25.xhtml",
+      "src": "section-25.xhtml",
+      "level": 2,
+      "chapterIndex": 28
+    },
+    {
+      "label": "Chapter Two: Huzoor's Perfect Character And Virtues",
+      "href": "section-26.xhtml",
+      "src": "section-26.xhtml",
+      "level": 1,
+      "chapterIndex": 29
+    },
+    {
+      "label": "First Section: Huzoor Gathered All Qualities",
+      "href": "section-27.xhtml",
+      "src": "section-27.xhtml",
+      "level": 2,
+      "chapterIndex": 30
+    },
+    {
+      "label": "Second Section: His Blessed Appearance",
+      "href": "section-28.xhtml",
+      "src": "section-28.xhtml",
+      "level": 2,
+      "chapterIndex": 31
+    },
+    {
+      "label": "Third Section: The Cleanliness And Purity Of Huzoor",
+      "href": "section-29.xhtml",
+      "src": "section-29.xhtml",
+      "level": 2,
+      "chapterIndex": 32
+    },
+    {
+      "label": "Fourth Section: The Understanding, Intelligence, And Wisdom Of Huzoor",
+      "href": "section-30.xhtml",
+      "src": "section-30.xhtml",
+      "level": 2,
+      "chapterIndex": 33
+    },
+    {
+      "label": "Fifth Section: The Eloquence And Expressiveness Of Huzoor",
+      "href": "section-31.xhtml",
+      "src": "section-31.xhtml",
+      "level": 2,
+      "chapterIndex": 34
+    },
+    {
+      "label": "Sixth Section: The Nobility Of His Lineage, The Honor Of His City, And His Upbringing",
+      "href": "section-32.xhtml",
+      "src": "section-32.xhtml",
+      "level": 2,
+      "chapterIndex": 35
+    },
+    {
+      "label": "Seventh Section: The First Type Of Life's Necessities",
+      "href": "section-33.xhtml",
+      "src": "section-33.xhtml",
+      "level": 2,
+      "chapterIndex": 36
+    },
+    {
+      "label": "Eighth Section: The Second Type Of Life's Necessities",
+      "href": "section-34.xhtml",
+      "src": "section-34.xhtml",
+      "level": 2,
+      "chapterIndex": 37
+    },
+    {
+      "label": "Ninth Section: Two Further Types",
+      "href": "section-35.xhtml",
+      "src": "section-35.xhtml",
+      "level": 2,
+      "chapterIndex": 38
+    },
+    {
+      "label": "Tenth Section: Further Qualities Of Huzoor",
+      "href": "section-36.xhtml",
+      "src": "section-36.xhtml",
+      "level": 2,
+      "chapterIndex": 39
+    },
+    {
+      "label": "Eleventh Section: Various Virtues Of Huzoor",
+      "href": "section-37.xhtml",
+      "src": "section-37.xhtml",
+      "level": 2,
+      "chapterIndex": 40
+    },
+    {
+      "label": "Twelfth Section: The Forbearance And Patience Of Huzoor",
+      "href": "section-38.xhtml",
+      "src": "section-38.xhtml",
+      "level": 2,
+      "chapterIndex": 41
+    },
+    {
+      "label": "Fifteenth Section: The Generosity And Open-Handedness Of Huzoor",
+      "href": "section-39.xhtml",
+      "src": "section-39.xhtml",
+      "level": 2,
+      "chapterIndex": 42
+    },
+    {
+      "label": "Fourteenth Section: The Courage And Bravery Of Huzoor",
+      "href": "section-40.xhtml",
+      "src": "section-40.xhtml",
+      "level": 2,
+      "chapterIndex": 43
+    },
+    {
+      "label": "Fifteenth Section: The Modesty And Overlooking Of Huzoor",
+      "href": "section-41.xhtml",
+      "src": "section-41.xhtml",
+      "level": 2,
+      "chapterIndex": 44
+    },
+    {
+      "label": "Sixteenth Section: The Beautiful Etiquette, Social Conduct, And Character Of Huzoor",
+      "href": "section-42.xhtml",
+      "src": "section-42.xhtml",
+      "level": 2,
+      "chapterIndex": 45
+    },
+    {
+      "label": "Seventeenth Section: The Compassion, Mercy, And Kindness Of Huzoor",
+      "href": "section-43.xhtml",
+      "src": "section-43.xhtml",
+      "level": 2,
+      "chapterIndex": 46
+    },
+    {
+      "label": "Eighteenth Section: His Loyalty, Fulfillment Of Promises, And Joining Family Ties",
+      "href": "section-44.xhtml",
+      "src": "section-44.xhtml",
+      "level": 2,
+      "chapterIndex": 47
+    },
+    {
+      "label": "Nineteenth Section: The Humility Of Huzoor",
+      "href": "section-45.xhtml",
+      "src": "section-45.xhtml",
+      "level": 2,
+      "chapterIndex": 48
+    },
+    {
+      "label": "Twentieth Section: The Justice, Trustworthiness, Chastity, And Truthfulness Of Huzoor",
+      "href": "section-46.xhtml",
+      "src": "section-46.xhtml",
+      "level": 2,
+      "chapterIndex": 49
+    },
+    {
+      "label": "Twenty-First Section: The Dignity, Silence, Noble Conduct, And Good Nature Of Huzoor",
+      "href": "section-47.xhtml",
+      "src": "section-47.xhtml",
+      "level": 2,
+      "chapterIndex": 50
+    },
+    {
+      "label": "Twenty-Second Section: The Zuhd And Taqwa Of Huzoor",
+      "href": "section-48.xhtml",
+      "src": "section-48.xhtml",
+      "level": 2,
+      "chapterIndex": 51
+    },
+    {
+      "label": "Twenty-Third Section: The Fear Of Allah, Worship, And Striving Of Huzoor",
+      "href": "section-49.xhtml",
+      "src": "section-49.xhtml",
+      "level": 2,
+      "chapterIndex": 52
+    },
+    {
+      "label": "Twenty-Fourth Section: The Perfect Character And Qualities Of The Noble Prophets",
+      "href": "section-50.xhtml",
+      "src": "section-50.xhtml",
+      "level": 2,
+      "chapterIndex": 53
+    },
+    {
+      "label": "Twenty-Fifth Section: The Blessed Habits Of Huzoor In Various Matters",
+      "href": "section-51.xhtml",
+      "src": "section-51.xhtml",
+      "level": 2,
+      "chapterIndex": 54
+    },
+    {
+      "label": "Twenty-Sixth Section: On The Meanings Of Difficult Words In The Hadith",
+      "href": "section-52.xhtml",
+      "src": "section-52.xhtml",
+      "level": 2,
+      "chapterIndex": 55
+    },
+    {
+      "label": "Second Part",
+      "href": "section-53.xhtml",
+      "src": "section-53.xhtml",
+      "level": 0,
+      "chapterIndex": 56
+    },
+    {
+      "label": "Chapter One: The Status Of Huzoor In Hadith",
+      "href": "section-53.xhtml",
+      "src": "section-53.xhtml",
+      "level": 1,
+      "chapterIndex": 56
+    },
+    {
+      "label": "Second Section: The Virtues Granted To Huzoor On The Night Of Mi'raj",
+      "href": "section-54.xhtml",
+      "src": "section-54.xhtml",
+      "level": 2,
+      "chapterIndex": 57
+    },
+    {
+      "label": "Third Section: Was The Mi'raj Bodily Or Spiritual?",
+      "href": "section-55.xhtml",
+      "src": "section-55.xhtml",
+      "level": 2,
+      "chapterIndex": 58
+    },
+    {
+      "label": "Fourth Section: Refuting The Proofs For A Spiritual Mi'raj",
+      "href": "section-56.xhtml",
+      "src": "section-56.xhtml",
+      "level": 2,
+      "chapterIndex": 59
+    },
+    {
+      "label": "Fifth Section: Huzoor Seeing Allah <sup>Ø¹Ø² ÙˆØ¬Ù„</sup>",
+      "href": "section-57.xhtml",
+      "src": "section-57.xhtml",
+      "level": 2,
+      "chapterIndex": 60
+    },
+    {
+      "label": "Sixth Section: Huzoor Conversing And Speaking With Allah During Mi'raj",
+      "href": "section-58.xhtml",
+      "src": "section-58.xhtml",
+      "level": 2,
+      "chapterIndex": 61
+    },
+    {
+      "label": "Seventh Section: The Nearness Of Huzoor During The Night Of Mi'raj",
+      "href": "section-59.xhtml",
+      "src": "section-59.xhtml",
+      "level": 2,
+      "chapterIndex": 62
+    },
+    {
+      "label": "Eighth Section: Huzoor On The Day Of Judgment And His Special Virtue",
+      "href": "section-60.xhtml",
+      "src": "section-60.xhtml",
+      "level": 2,
+      "chapterIndex": 63
+    },
+    {
+      "label": "Ninth Section: The Love And Khullah Of Huzoor",
+      "href": "section-61.xhtml",
+      "src": "section-61.xhtml",
+      "level": 2,
+      "chapterIndex": 64
+    },
+    {
+      "label": "Tenth Section: The Virtue, Intercession, And Praiseworthy Station Of Huzoor",
+      "href": "section-62.xhtml",
+      "src": "section-62.xhtml",
+      "level": 2,
+      "chapterIndex": 65
+    },
+    {
+      "label": "Eleventh Section: The Greatness Of Huzoor Regarding Paradise And Kawthar",
+      "href": "section-63.xhtml",
+      "src": "section-63.xhtml",
+      "level": 2,
+      "chapterIndex": 66
+    },
+    {
+      "label": "Twelfth Section: The Hadith In Which Giving Huzoor Superiority Over Other Prophets Was Prohibited",
+      "href": "section-64.xhtml",
+      "src": "section-64.xhtml",
+      "level": 2,
+      "chapterIndex": 67
+    },
+    {
+      "label": "Thirteenth Section: The Blessed Names And Virtues Of Huzoor",
+      "href": "section-65.xhtml",
+      "src": "section-65.xhtml",
+      "level": 2,
+      "chapterIndex": 68
+    },
+    {
+      "label": "Fourteenth Section: The Names Of Huzoor Along With The Names Of Allah",
+      "href": "section-66.xhtml",
+      "src": "section-66.xhtml",
+      "level": 2,
+      "chapterIndex": 69
+    },
+    {
+      "label": "Fifteenth Section: An Explanation Of A Subtle Point",
+      "href": "section-67.xhtml",
+      "src": "section-67.xhtml",
+      "level": 2,
+      "chapterIndex": 70
+    },
+    {
+      "label": "Chapters Two-Four: Prophethood, Revelation & Miracles",
+      "href": "section-68.xhtml",
+      "src": "section-68.xhtml",
+      "level": 1,
+      "chapterIndex": 71
+    },
+    {
+      "label": "First Section: The Linguistic Meaning Of Prophethood",
+      "href": "section-68.xhtml",
+      "src": "section-68.xhtml",
+      "level": 2,
+      "chapterIndex": 71
+    },
+    {
+      "label": "The Meaning Of Messengerhood",
+      "href": "section-69.xhtml",
+      "src": "section-69.xhtml",
+      "level": 2,
+      "chapterIndex": 72
+    },
+    {
+      "label": "The Meaning Of Revelation",
+      "href": "section-70.xhtml",
+      "src": "section-70.xhtml",
+      "level": 2,
+      "chapterIndex": 73
+    },
+    {
+      "label": "Second Section: On The Explanation Of Miracles",
+      "href": "section-71.xhtml",
+      "src": "section-71.xhtml",
+      "level": 2,
+      "chapterIndex": 74
+    },
+    {
+      "label": "Third Section: The First Aspect Of The Qur'an's Inimitability",
+      "href": "section-72.xhtml",
+      "src": "section-72.xhtml",
+      "level": 2,
+      "chapterIndex": 75
+    },
+    {
+      "label": "Fourth Section: The Second Aspect Of The Qur'an's Inimitability",
+      "href": "section-73.xhtml",
+      "src": "section-73.xhtml",
+      "level": 2,
+      "chapterIndex": 76
+    },
+    {
+      "label": "Fifth Section: The Third Aspect Of The Qur'an's Inimitability",
+      "href": "section-74.xhtml",
+      "src": "section-74.xhtml",
+      "level": 2,
+      "chapterIndex": 77
+    },
+    {
+      "label": "Sixth Section: The Fourth Aspect Of The Qur'an's Inimitability",
+      "href": "section-75.xhtml",
+      "src": "section-75.xhtml",
+      "level": 2,
+      "chapterIndex": 78
+    },
+    {
+      "label": "Seventh Section: The Qur'an's Inimitability By Rendering A People Unable",
+      "href": "section-76.xhtml",
+      "src": "section-76.xhtml",
+      "level": 2,
+      "chapterIndex": 79
+    },
+    {
+      "label": "Eighth Section: The Qur'an's Inimitability Through Awe And Majesty",
+      "href": "section-77.xhtml",
+      "src": "section-77.xhtml",
+      "level": 2,
+      "chapterIndex": 80
+    },
+    {
+      "label": "Ninth Section: The Qur'an Will Remain Forever",
+      "href": "section-78.xhtml",
+      "src": "section-78.xhtml",
+      "level": 2,
+      "chapterIndex": 81
+    },
+    {
+      "label": "Tenth Section: Various Aspects Of The Qur'an's Inimitability",
+      "href": "section-79.xhtml",
+      "src": "section-79.xhtml",
+      "level": 2,
+      "chapterIndex": 82
+    },
+    {
+      "label": "Eleventh Section: The Miracle Of The Splitting Of The Moon And The Returning Of The Sun",
+      "href": "section-80.xhtml",
+      "src": "section-80.xhtml",
+      "level": 2,
+      "chapterIndex": 83
+    },
+    {
+      "label": "Twelfth Section: Water Flowing From His Fingers And Increasing",
+      "href": "section-81.xhtml",
+      "src": "section-81.xhtml",
+      "level": 2,
+      "chapterIndex": 84
+    },
+    {
+      "label": "Thirteenth Section: Further Miracles",
+      "href": "section-82.xhtml",
+      "src": "section-82.xhtml",
+      "level": 2,
+      "chapterIndex": 85
+    },
+    {
+      "label": "Fourteenth Section: Increase In Food",
+      "href": "section-83.xhtml",
+      "src": "section-83.xhtml",
+      "level": 2,
+      "chapterIndex": 86
+    },
+    {
+      "label": "Fifteenth Section: Trees Speaking, Bearing Witness, And Coming Running",
+      "href": "section-84.xhtml",
+      "src": "section-84.xhtml",
+      "level": 2,
+      "chapterIndex": 87
+    },
+    {
+      "label": "Sixteenth Section: The Weeping Of The Date-Palm Trunk",
+      "href": "section-85.xhtml",
+      "src": "section-85.xhtml",
+      "level": 2,
+      "chapterIndex": 88
+    },
+    {
+      "label": "Seventeenth Section: Miracles Related To Inanimate Things",
+      "href": "section-86.xhtml",
+      "src": "section-86.xhtml",
+      "level": 2,
+      "chapterIndex": 89
+    },
+    {
+      "label": "Eighteenth Section: Miracles Related To Animals",
+      "href": "section-87.xhtml",
+      "src": "section-87.xhtml",
+      "level": 2,
+      "chapterIndex": 90
+    },
+    {
+      "label": "Nineteenth Section: Reviving The Dead, Infants Speaking, And Their Testimony",
+      "href": "section-88.xhtml",
+      "src": "section-88.xhtml",
+      "level": 2,
+      "chapterIndex": 91
+    },
+    {
+      "label": "Twentieth Section: Healing The Sick And Afflicted",
+      "href": "section-89.xhtml",
+      "src": "section-89.xhtml",
+      "level": 2,
+      "chapterIndex": 92
+    },
+    {
+      "label": "Twenty-First Section: The Acceptance Of His Supplications",
+      "href": "section-90.xhtml",
+      "src": "section-90.xhtml",
+      "level": 2,
+      "chapterIndex": 93
+    },
+    {
+      "label": "Twenty-Second Section: The Reality Of Whatever Touched Huzoor Being Changed",
+      "href": "section-91.xhtml",
+      "src": "section-91.xhtml",
+      "level": 2,
+      "chapterIndex": 94
+    },
+    {
+      "label": "Twenty-Third Section: Huzoor Being Informed Of The Unseen",
+      "href": "section-92.xhtml",
+      "src": "section-92.xhtml",
+      "level": 2,
+      "chapterIndex": 95
+    },
+    {
+      "label": "Twenty-Fourth Section: The Protection Of The Prophet",
+      "href": "section-93.xhtml",
+      "src": "section-93.xhtml",
+      "level": 2,
+      "chapterIndex": 96
+    },
+    {
+      "label": "Twenty-Fifth Section: The Clear Miracles Of Huzoor",
+      "href": "section-94.xhtml",
+      "src": "section-94.xhtml",
+      "level": 2,
+      "chapterIndex": 97
+    },
+    {
+      "label": "Twenty-Sixth Section: The Unseen Reports Told By Huzoor",
+      "href": "section-95.xhtml",
+      "src": "section-95.xhtml",
+      "level": 2,
+      "chapterIndex": 98
+    },
+    {
+      "label": "Twenty-Seventh Section: Proofs And Signs Of Prophethood And Messengerhood",
+      "href": "section-96.xhtml",
+      "src": "section-96.xhtml",
+      "level": 2,
+      "chapterIndex": 99
+    },
+    {
+      "label": "Twenty-Eighth Section: Miracles At The Time Of His Blessed Birth",
+      "href": "section-97.xhtml",
+      "src": "section-97.xhtml",
+      "level": 2,
+      "chapterIndex": 100
+    },
+    {
+      "label": "Twenty-Ninth Section: The Miracle Remaining Until The Day Of Judgment",
+      "href": "section-98.xhtml",
+      "src": "section-98.xhtml",
+      "level": 2,
+      "chapterIndex": 101
+    },
+    {
+      "label": "Third Part",
+      "href": "section-99.xhtml",
+      "src": "section-99.xhtml",
+      "level": 0,
+      "chapterIndex": 102
+    },
+    {
+      "label": "Chapter One: Believing In Huzoor And Following His Sunnah",
+      "href": "section-99.xhtml",
+      "src": "section-99.xhtml",
+      "level": 1,
+      "chapterIndex": 102
+    },
+    {
+      "label": "Chapter One: Believing In Huzoor, Obeying Him, And Following His Sunnah",
+      "href": "section-100.xhtml",
+      "src": "section-100.xhtml",
+      "level": 2,
+      "chapterIndex": 103
+    },
+    {
+      "label": "First Section: Believing In Huzoor, Obeying Him, And Following His Sunnah",
+      "href": "section-101.xhtml",
+      "src": "section-101.xhtml",
+      "level": 2,
+      "chapterIndex": 104
+    },
+    {
+      "label": "Second Section: Proof From The Book And Sunnah That Following The Sunnah Is Wajib",
+      "href": "section-102.xhtml",
+      "src": "section-102.xhtml",
+      "level": 2,
+      "chapterIndex": 105
+    },
+    {
+      "label": "Third Section: The Obligation Of Following The Sunnah According To The Righteous Predecessors",
+      "href": "section-103.xhtml",
+      "src": "section-103.xhtml",
+      "level": 2,
+      "chapterIndex": 106
+    },
+    {
+      "label": "Fourth Section: Opposing The Sunnah Is A Cause Of Punishment In The Hereafter",
+      "href": "section-104.xhtml",
+      "src": "section-104.xhtml",
+      "level": 2,
+      "chapterIndex": 107
+    },
+    {
+      "label": "Chapter Two: Love Of Huzoor",
+      "href": "section-105.xhtml",
+      "src": "section-105.xhtml",
+      "level": 1,
+      "chapterIndex": 108
+    },
+    {
+      "label": "Second Section: Statements Of The Righteous Predecessors About Loving Huzoor",
+      "href": "section-106.xhtml",
+      "src": "section-106.xhtml",
+      "level": 2,
+      "chapterIndex": 109
+    },
+    {
+      "label": "Third Section: The Signs Of Loving Huzoor",
+      "href": "section-107.xhtml",
+      "src": "section-107.xhtml",
+      "level": 2,
+      "chapterIndex": 110
+    },
+    {
+      "label": "Fourth Section: The Meaning And Reality Of Love",
+      "href": "section-108.xhtml",
+      "src": "section-108.xhtml",
+      "level": 2,
+      "chapterIndex": 111
+    },
+    {
+      "label": "Fifth Section: Sincere Goodwill Toward Huzoor Is Wajib",
+      "href": "section-109.xhtml",
+      "src": "section-109.xhtml",
+      "level": 2,
+      "chapterIndex": 112
+    },
+    {
+      "label": "Chapter Three: Reverence And Honor",
+      "href": "section-110.xhtml",
+      "src": "section-110.xhtml",
+      "level": 1,
+      "chapterIndex": 113
+    },
+    {
+      "label": "Second Section: The Obligation Of Reverence And Honor After His Passing",
+      "href": "section-111.xhtml",
+      "src": "section-111.xhtml",
+      "level": 2,
+      "chapterIndex": 114
+    },
+    {
+      "label": "Third Section: The Practice Of The Imams When Narrating Hadith",
+      "href": "section-112.xhtml",
+      "src": "section-112.xhtml",
+      "level": 2,
+      "chapterIndex": 115
+    },
+    {
+      "label": "Fourth Section: Revering And Honoring The Ahl Al-Bayt And The Pure Wives",
+      "href": "section-113.xhtml",
+      "src": "section-113.xhtml",
+      "level": 2,
+      "chapterIndex": 116
+    },
+    {
+      "label": "Fifth Section: Honoring And Respecting The Companions",
+      "href": "section-114.xhtml",
+      "src": "section-114.xhtml",
+      "level": 2,
+      "chapterIndex": 117
+    },
+    {
+      "label": "Sixth Section: Revering The Blessed Relics And Sacred Places Of The Prophet",
+      "href": "section-115.xhtml",
+      "src": "section-115.xhtml",
+      "level": 2,
+      "chapterIndex": 118
+    },
+    {
+      "label": "Chapter Four: Durood And Salam",
+      "href": "section-116.xhtml",
+      "src": "section-116.xhtml",
+      "level": 1,
+      "chapterIndex": 119
+    },
+    {
+      "label": "Second Section: The Places Where Durood Is Recommended",
+      "href": "section-117.xhtml",
+      "src": "section-117.xhtml",
+      "level": 2,
+      "chapterIndex": 120
+    },
+    {
+      "label": "Third Section: The Form And Words Of Durood Shareef",
+      "href": "section-118.xhtml",
+      "src": "section-118.xhtml",
+      "level": 2,
+      "chapterIndex": 121
+    },
+    {
+      "label": "Fourth Section: The Virtue Of Durood And Salam",
+      "href": "section-119.xhtml",
+      "src": "section-119.xhtml",
+      "level": 2,
+      "chapterIndex": 122
+    },
+    {
+      "label": "Fifth Section: Condemnation And Sin Of The One Who Does Not Send Durood And Salam",
+      "href": "section-120.xhtml",
+      "src": "section-120.xhtml",
+      "level": 2,
+      "chapterIndex": 123
+    },
+    {
+      "label": "Sixth Section: Durood Is Presented Especially To Huzoor",
+      "href": "section-121.xhtml",
+      "src": "section-121.xhtml",
+      "level": 2,
+      "chapterIndex": 124
+    },
+    {
+      "label": "Seventh Section: The Issue Of Sending Durood Upon Non-Prophets And All Prophets",
+      "href": "section-122.xhtml",
+      "src": "section-122.xhtml",
+      "level": 2,
+      "chapterIndex": 125
+    },
+    {
+      "label": "Eighth Section: The Ruling Of Visiting The Luminous Grave And The Virtue Of The Visitor",
+      "href": "section-123.xhtml",
+      "src": "section-123.xhtml",
+      "level": 2,
+      "chapterIndex": 126
+    },
+    {
+      "label": "Ninth Section: The Virtue And Etiquette Of Masjid Nabawi Shareef",
+      "href": "section-124.xhtml",
+      "src": "section-124.xhtml",
+      "level": 2,
+      "chapterIndex": 127
+    },
+    {
+      "label": "Chapter Five: Infallibility Of The Prophets",
+      "href": "section-125.xhtml",
+      "src": "section-125.xhtml",
+      "level": 1,
+      "chapterIndex": 128
+    },
+    {
+      "label": "Chapter One: Religious Matters And The Infallibility Of The Prophets",
+      "href": "section-126.xhtml",
+      "src": "section-126.xhtml",
+      "level": 2,
+      "chapterIndex": 129
+    },
+    {
+      "label": "First Section: The Firmness Of The Blessed Heart Of Huzoor",
+      "href": "section-127.xhtml",
+      "src": "section-127.xhtml",
+      "level": 2,
+      "chapterIndex": 130
+    },
+    {
+      "label": "The Pause In Revelation",
+      "href": "section-128.xhtml",
+      "src": "section-128.xhtml",
+      "level": 2,
+      "chapterIndex": 131
+    },
+    {
+      "label": "Second Section: The Infallibility Of The Prophets Before The Manifestation Of Prophethood",
+      "href": "section-129.xhtml",
+      "src": "section-129.xhtml",
+      "level": 2,
+      "chapterIndex": 132
+    },
+    {
+      "label": "Third Section: The Prophets Were Firm In Tawhid, Iman, And Revelation",
+      "href": "section-130.xhtml",
+      "src": "section-130.xhtml",
+      "level": 2,
+      "chapterIndex": 133
+    },
+    {
+      "label": "Fourth Section: Huzoor Was Protected From The Effect Of Shaytan And From Every Evil And Corruption",
+      "href": "section-131.xhtml",
+      "src": "section-131.xhtml",
+      "level": 2,
+      "chapterIndex": 134
+    },
+    {
+      "label": "Fifth Section: The Infallibility Of The Statements Of Huzoor",
+      "href": "section-132.xhtml",
+      "src": "section-132.xhtml",
+      "level": 2,
+      "chapterIndex": 135
+    },
+    {
+      "label": "Sixth Section: Answers To Objections",
+      "href": "section-133.xhtml",
+      "src": "section-133.xhtml",
+      "level": 2,
+      "chapterIndex": 136
+    },
+    {
+      "label": "Seventh Section: Truthfulness In Worldly Matters And Human States",
+      "href": "section-134.xhtml",
+      "src": "section-134.xhtml",
+      "level": 2,
+      "chapterIndex": 137
+    },
+    {
+      "label": "Eighth Section: Forgetfulness In Hadith",
+      "href": "section-135.xhtml",
+      "src": "section-135.xhtml",
+      "level": 2,
+      "chapterIndex": 138
+    },
+    {
+      "label": "Ninth Section: The Infallibility Of The Limbs And Bodily Actions Of Huzoor",
+      "href": "section-136.xhtml",
+      "src": "section-136.xhtml",
+      "level": 2,
+      "chapterIndex": 139
+    },
+    {
+      "label": "Tenth Section: Infallibility Before The Manifestation Of Prophethood",
+      "href": "section-137.xhtml",
+      "src": "section-137.xhtml",
+      "level": 2,
+      "chapterIndex": 140
+    },
+    {
+      "label": "Eleventh Section: Actions That Occurred Without Intention Or Choice",
+      "href": "section-138.xhtml",
+      "src": "section-138.xhtml",
+      "level": 2,
+      "chapterIndex": 141
+    },
+    {
+      "label": "Twelfth Section: A Complete Discussion On Hadith Of Forgetfulness",
+      "href": "section-139.xhtml",
+      "src": "section-139.xhtml",
+      "level": 2,
+      "chapterIndex": 142
+    },
+    {
+      "label": "Thirteenth Section: The Prophets Are Protected Even From Committing Minor Sins",
+      "href": "section-140.xhtml",
+      "src": "section-140.xhtml",
+      "level": 2,
+      "chapterIndex": 143
+    },
+    {
+      "label": "Fourteenth Section: Removing The Difficulty Regarding Sin Being Attributed To The Prophets",
+      "href": "section-141.xhtml",
+      "src": "section-141.xhtml",
+      "level": 2,
+      "chapterIndex": 144
+    },
+    {
+      "label": "Fifteenth Section: Warnings Regarding The Rights Of Messengerhood And Prophethood",
+      "href": "section-142.xhtml",
+      "src": "section-142.xhtml",
+      "level": 2,
+      "chapterIndex": 145
+    },
+    {
+      "label": "Sixteenth Section: The Infallibility Of The Angels",
+      "href": "section-143.xhtml",
+      "src": "section-143.xhtml",
+      "level": 2,
+      "chapterIndex": 146
+    },
+    {
+      "label": "Human Conditions",
+      "href": "section-144.xhtml",
+      "src": "section-144.xhtml",
+      "level": 1,
+      "chapterIndex": 147
+    },
+    {
+      "label": "First Section: The Effect Of Magic Upon Huzoor",
+      "href": "section-145.xhtml",
+      "src": "section-145.xhtml",
+      "level": 2,
+      "chapterIndex": 148
+    },
+    {
+      "label": "Second Section: The State Of Huzoor In Worldly Matters",
+      "href": "section-146.xhtml",
+      "src": "section-146.xhtml",
+      "level": 2,
+      "chapterIndex": 149
+    },
+    {
+      "label": "Third Section: Human Judgments And Belief",
+      "href": "section-147.xhtml",
+      "src": "section-147.xhtml",
+      "level": 2,
+      "chapterIndex": 150
+    },
+    {
+      "label": "Fourth Section: The Worldly Statements Of Huzoor",
+      "href": "section-148.xhtml",
+      "src": "section-148.xhtml",
+      "level": 2,
+      "chapterIndex": 151
+    },
+    {
+      "label": "Fifth Section: Explanation Of The Hadith Of The Written Document",
+      "href": "section-149.xhtml",
+      "src": "section-149.xhtml",
+      "level": 2,
+      "chapterIndex": 152
+    },
+    {
+      "label": "Sixth Section: Explanations Of Words Of Supplication Against Others",
+      "href": "section-150.xhtml",
+      "src": "section-150.xhtml",
+      "level": 2,
+      "chapterIndex": 153
+    },
+    {
+      "label": "Seventh Section: The Worldly Actions Of Huzoor",
+      "href": "section-151.xhtml",
+      "src": "section-151.xhtml",
+      "level": 2,
+      "chapterIndex": 154
+    },
+    {
+      "label": "Eighth Section: The Wisdom In The Prophets And Messengers Being Tested",
+      "href": "section-152.xhtml",
+      "src": "section-152.xhtml",
+      "level": 2,
+      "chapterIndex": 155
+    },
+    {
+      "label": "Fourth Part",
+      "href": "section-153.xhtml",
+      "src": "section-153.xhtml",
+      "level": 0,
+      "chapterIndex": 156
+    },
+    {
+      "label": "Chapter One: Insult And Disrespect",
+      "href": "section-153.xhtml",
+      "src": "section-153.xhtml",
+      "level": 1,
+      "chapterIndex": 156
+    },
+    {
+      "label": "The First Chapter: Words By Which Insult And Disrespect Occur",
+      "href": "section-154.xhtml",
+      "src": "section-154.xhtml",
+      "level": 2,
+      "chapterIndex": 157
+    },
+    {
+      "label": "First Section: The Proofs For The Obligation Of Killing",
+      "href": "section-155.xhtml",
+      "src": "section-155.xhtml",
+      "level": 2,
+      "chapterIndex": 158
+    },
+    {
+      "label": "Second Section: The Wisdom In Not Killing Some Jews And Hypocrites",
+      "href": "section-156.xhtml",
+      "src": "section-156.xhtml",
+      "level": 2,
+      "chapterIndex": 159
+    },
+    {
+      "label": "Third Section: The Ruling Regarding One Who Insults Unknowingly",
+      "href": "section-157.xhtml",
+      "src": "section-157.xhtml",
+      "level": 2,
+      "chapterIndex": 160
+    },
+    {
+      "label": "Fourth Section: The Ruling Regarding Rejecting Prophetic Statements",
+      "href": "section-158.xhtml",
+      "src": "section-158.xhtml",
+      "level": 2,
+      "chapterIndex": 161
+    },
+    {
+      "label": "Fifth Section: The Ruling Regarding Ambiguous And Possible Statements",
+      "href": "section-159.xhtml",
+      "src": "section-159.xhtml",
+      "level": 2,
+      "chapterIndex": 162
+    },
+    {
+      "label": "Sixth Section: The Ruling Regarding Abuse By Examples",
+      "href": "section-160.xhtml",
+      "src": "section-160.xhtml",
+      "level": 2,
+      "chapterIndex": 163
+    },
+    {
+      "label": "Seventh Section: The Ruling Regarding Quoting Kufr As Narration",
+      "href": "section-161.xhtml",
+      "src": "section-161.xhtml",
+      "level": 2,
+      "chapterIndex": 164
+    },
+    {
+      "label": "Eighth Section: The Ruling Regarding Mentioning Various Matters",
+      "href": "section-162.xhtml",
+      "src": "section-162.xhtml",
+      "level": 2,
+      "chapterIndex": 165
+    },
+    {
+      "label": "Ninth Section: Warnings For Speakers",
+      "href": "section-163.xhtml",
+      "src": "section-163.xhtml",
+      "level": 2,
+      "chapterIndex": 166
+    },
+    {
+      "label": "Chapter Two: Repentance And Punishment",
+      "href": "section-164.xhtml",
+      "src": "section-164.xhtml",
+      "level": 1,
+      "chapterIndex": 167
+    },
+    {
+      "label": "Second Section: The Ruling When Testimony Is Incomplete",
+      "href": "section-165.xhtml",
+      "src": "section-165.xhtml",
+      "level": 2,
+      "chapterIndex": 168
+    },
+    {
+      "label": "Third Section: The Ruling When A Dhimmi Commits Abuse",
+      "href": "section-166.xhtml",
+      "src": "section-166.xhtml",
+      "level": 2,
+      "chapterIndex": 169
+    },
+    {
+      "label": "Fourth Section: The Inheritance, Washing, And Funeral Prayer Of One Who Insults The Prophet",
+      "href": "section-167.xhtml",
+      "src": "section-167.xhtml",
+      "level": 2,
+      "chapterIndex": 170
+    },
+    {
+      "label": "Chapter Three: Rulings On Kufr And Insults",
+      "href": "section-168.xhtml",
+      "src": "section-168.xhtml",
+      "level": 1,
+      "chapterIndex": 171
+    },
+    {
+      "label": "Second Section: The Verified Position On Declaring Those Who Interpret Incorrectly As Kafir",
+      "href": "section-169.xhtml",
+      "src": "section-169.xhtml",
+      "level": 2,
+      "chapterIndex": 172
+    },
+    {
+      "label": "Third Section: Which Statements Constitute Kufr And Which Do Not",
+      "href": "section-170.xhtml",
+      "src": "section-170.xhtml",
+      "level": 2,
+      "chapterIndex": 173
+    },
+    {
+      "label": "Fourth Section: If A Dhimmi Abuses Allah",
+      "href": "section-171.xhtml",
+      "src": "section-171.xhtml",
+      "level": 2,
+      "chapterIndex": 174
+    },
+    {
+      "label": "Fifth Section: The Ruling Regarding The Slanderer And Liar",
+      "href": "section-172.xhtml",
+      "src": "section-172.xhtml",
+      "level": 2,
+      "chapterIndex": 175
+    },
+    {
+      "label": "Sixth Section: What Is The Ruling When A Word Of Kufr Escapes Involuntarily?",
+      "href": "section-173.xhtml",
+      "src": "section-173.xhtml",
+      "level": 2,
+      "chapterIndex": 176
+    },
+    {
+      "label": "Seventh Section: The Ruling Regarding One Who Insults Prophets And Angels",
+      "href": "section-174.xhtml",
+      "src": "section-174.xhtml",
+      "level": 2,
+      "chapterIndex": 177
+    },
+    {
+      "label": "Eighth Section: The Ruling Regarding Insulting The Qur'an",
+      "href": "section-175.xhtml",
+      "src": "section-175.xhtml",
+      "level": 2,
+      "chapterIndex": 178
+    },
+    {
+      "label": "Ninth Section: The Ruling Regarding Abusing The Ahl Al-Bayt, The Pure Wives, And The Companions",
+      "href": "section-176.xhtml",
+      "src": "section-176.xhtml",
+      "level": 2,
+      "chapterIndex": 179
+    },
+    {
+      "label": "Conclusion & Appendices",
+      "href": "section-177.xhtml",
+      "src": "section-177.xhtml",
+      "level": 0,
+      "chapterIndex": 180
+    },
+    {
+      "label": "Honorifics And Conventions",
+      "href": "section-178.xhtml",
+      "src": "section-178.xhtml",
+      "level": 1,
+      "chapterIndex": 181
+    },
+    {
+      "label": "Islamic Concepts And Terms",
+      "href": "section-179.xhtml",
+      "src": "section-179.xhtml",
+      "level": 1,
+      "chapterIndex": 182
+    },
+    {
+      "label": "Legal And Jurisprudential Terms",
+      "href": "section-180.xhtml",
+      "src": "section-180.xhtml",
+      "level": 1,
+      "chapterIndex": 183
+    },
+    {
+      "label": "Worship And Rituals",
+      "href": "section-181.xhtml",
+      "src": "section-181.xhtml",
+      "level": 1,
+      "chapterIndex": 184
+    },
+    {
+      "label": "Eschatology And The Hereafter",
+      "href": "section-182.xhtml",
+      "src": "section-182.xhtml",
+      "level": 1,
+      "chapterIndex": 185
+    },
+    {
+      "label": "Sects And Schools",
+      "href": "section-183.xhtml",
+      "src": "section-183.xhtml",
+      "level": 1,
+      "chapterIndex": 186
+    },
+    {
+      "label": "Books And Scripture",
+      "href": "section-184.xhtml",
+      "src": "section-184.xhtml",
+      "level": 1,
+      "chapterIndex": 187
+    },
+    {
+      "label": "Persons",
+      "href": "section-185.xhtml",
+      "src": "section-185.xhtml",
+      "level": 1,
+      "chapterIndex": 188
+    },
+    {
+      "label": "Prophetic Miracles",
+      "href": "section-186.xhtml",
+      "src": "section-186.xhtml",
+      "level": 1,
+      "chapterIndex": 189
+    },
+    {
+      "label": "Key Theological Topics",
+      "href": "section-187.xhtml",
+      "src": "section-187.xhtml",
+      "level": 1,
+      "chapterIndex": 190
+    },
+    {
+      "label": "Legal Topics",
+      "href": "section-188.xhtml",
+      "src": "section-188.xhtml",
+      "level": 1,
+      "chapterIndex": 191
+    },
+    {
+      "label": "Qur'anic Verses Cited",
+      "href": "section-189.xhtml",
+      "src": "section-189.xhtml",
+      "level": 1,
+      "chapterIndex": 192
+    },
+    {
+      "label": "Hadith Narrators Frequently Cited",
+      "href": "section-190.xhtml",
+      "src": "section-190.xhtml",
+      "level": 1,
+      "chapterIndex": 193
+    },
+    {
+      "label": "Places",
+      "href": "section-191.xhtml",
+      "src": "section-191.xhtml",
+      "level": 1,
+      "chapterIndex": 194
     }
   ]
 }
