@@ -1,0 +1,1374 @@
+{
+  "version": 1,
+  "source": "shifa-shareef-english.epub",
+  "title": "Asshifa (English)",
+  "opfPath": "package.opf",
+  "generatedAt": "2026-06-28T00:00:00.000Z",
+  "chapters": [
+    {
+      "id": "spine-item-000",
+      "title": "Cover",
+      "href": "cover.xhtml",
+      "startProgressPercent": 0.0,
+      "endProgressPercent": 0.005128
+    },
+    {
+      "id": "spine-item-001",
+      "title": "Title Page",
+      "href": "title.xhtml",
+      "startProgressPercent": 0.005128,
+      "endProgressPercent": 0.010256
+    },
+    {
+      "id": "spine-item-002",
+      "title": "Publisher&apos;s Note",
+      "href": "publishers-note.xhtml",
+      "startProgressPercent": 0.010256,
+      "endProgressPercent": 0.015385
+    },
+    {
+      "id": "spine-item-003",
+      "title": "Contents",
+      "href": "contents.xhtml",
+      "startProgressPercent": 0.015385,
+      "endProgressPercent": 0.020513
+    },
+    {
+      "id": "spine-item-004",
+      "title": "About The Author",
+      "href": "section-01.xhtml",
+      "startProgressPercent": 0.020513,
+      "endProgressPercent": 0.025641
+    },
+    {
+      "id": "spine-item-005",
+      "title": "Education And Training",
+      "href": "section-02.xhtml",
+      "startProgressPercent": 0.025641,
+      "endProgressPercent": 0.030769
+    },
+    {
+      "id": "spine-item-006",
+      "title": "His Position As Qadi",
+      "href": "section-03.xhtml",
+      "startProgressPercent": 0.030769,
+      "endProgressPercent": 0.035897
+    },
+    {
+      "id": "spine-item-007",
+      "title": "His Teachers And Students",
+      "href": "section-04.xhtml",
+      "startProgressPercent": 0.035897,
+      "endProgressPercent": 0.041026
+    },
+    {
+      "id": "spine-item-008",
+      "title": "His Distinctions",
+      "href": "section-05.xhtml",
+      "startProgressPercent": 0.041026,
+      "endProgressPercent": 0.046154
+    },
+    {
+      "id": "spine-item-009",
+      "title": "Shifa Shareef",
+      "href": "section-06.xhtml",
+      "startProgressPercent": 0.046154,
+      "endProgressPercent": 0.051282
+    },
+    {
+      "id": "spine-item-010",
+      "title": "The Acceptance Of Ash-Shifa In The Court Of Prophethood",
+      "href": "section-07.xhtml",
+      "startProgressPercent": 0.051282,
+      "endProgressPercent": 0.05641
+    },
+    {
+      "id": "spine-item-011",
+      "title": "The Rank Of Ash-Shifa",
+      "href": "section-08.xhtml",
+      "startProgressPercent": 0.05641,
+      "endProgressPercent": 0.061538
+    },
+    {
+      "id": "spine-item-012",
+      "title": "The Virtue Of Reading Ash-Shifa",
+      "href": "section-09.xhtml",
+      "startProgressPercent": 0.061538,
+      "endProgressPercent": 0.066667
+    },
+    {
+      "id": "spine-item-013",
+      "title": "Passing Away",
+      "href": "section-10.xhtml",
+      "startProgressPercent": 0.066667,
+      "endProgressPercent": 0.071795
+    },
+    {
+      "id": "spine-item-014",
+      "title": "The Urdu Translator",
+      "href": "section-11.xhtml",
+      "startProgressPercent": 0.071795,
+      "endProgressPercent": 0.076923
+    },
+    {
+      "id": "spine-item-015",
+      "title": "The Favors Of Sadr al-Afazil Upon Him",
+      "href": "section-12.xhtml",
+      "startProgressPercent": 0.076923,
+      "endProgressPercent": 0.082051
+    },
+    {
+      "id": "spine-item-016",
+      "title": "Introduction",
+      "href": "section-13.xhtml",
+      "startProgressPercent": 0.082051,
+      "endProgressPercent": 0.087179
+    },
+    {
+      "id": "spine-item-017",
+      "title": "First Part",
+      "href": "section-14.xhtml",
+      "startProgressPercent": 0.087179,
+      "endProgressPercent": 0.092308
+    },
+    {
+      "id": "spine-item-018",
+      "title": "Chapter One: The Praise Of Huzoor In The Qur&apos;an",
+      "href": "section-15.xhtml",
+      "startProgressPercent": 0.092308,
+      "endProgressPercent": 0.097436
+    },
+    {
+      "id": "spine-item-019",
+      "title": "First Section: Verses Revealed In Praise Of Huzoor",
+      "href": "section-16.xhtml",
+      "startProgressPercent": 0.097436,
+      "endProgressPercent": 0.102564
+    },
+    {
+      "id": "spine-item-020",
+      "title": "Second Section: Allah Made Huzoor A Witness And Praised Him",
+      "href": "section-17.xhtml",
+      "startProgressPercent": 0.102564,
+      "endProgressPercent": 0.107692
+    },
+    {
+      "id": "spine-item-021",
+      "title": "Third Section: Allah Mentioned Huzoor With Great Favor",
+      "href": "section-18.xhtml",
+      "startProgressPercent": 0.107692,
+      "endProgressPercent": 0.112821
+    },
+    {
+      "id": "spine-item-022",
+      "title": "Fourth Section: Allah Swore By The Rank Of Huzoor",
+      "href": "section-19.xhtml",
+      "startProgressPercent": 0.112821,
+      "endProgressPercent": 0.117949
+    },
+    {
+      "id": "spine-item-023",
+      "title": "Fifth Section: Allah Swore By The Rank Granted To Huzoor In The Divine Court",
+      "href": "section-20.xhtml",
+      "startProgressPercent": 0.117949,
+      "endProgressPercent": 0.123077
+    },
+    {
+      "id": "spine-item-024",
+      "title": "Sixth Section: Allah&apos;s Compassion And Generosity Toward Huzoor",
+      "href": "section-21.xhtml",
+      "startProgressPercent": 0.123077,
+      "endProgressPercent": 0.128205
+    },
+    {
+      "id": "spine-item-025",
+      "title": "Seventh Section: The Superiority Of Huzoor Over The Prophets In The Qur&apos;an",
+      "href": "section-22.xhtml",
+      "startProgressPercent": 0.128205,
+      "endProgressPercent": 0.133333
+    },
+    {
+      "id": "spine-item-026",
+      "title": "Eighth Section: Allah Sending Durood Upon Huzoor And Removing Punishment Because Of Him",
+      "href": "section-23.xhtml",
+      "startProgressPercent": 0.133333,
+      "endProgressPercent": 0.138462
+    },
+    {
+      "id": "spine-item-027",
+      "title": "Ninth Section: The Greatness Of Huzoor In Surah al-Fath",
+      "href": "section-24.xhtml",
+      "startProgressPercent": 0.138462,
+      "endProgressPercent": 0.14359
+    },
+    {
+      "id": "spine-item-028",
+      "title": "Tenth Section: The Blessed Mention Of Huzoor In The Noble Book",
+      "href": "section-25.xhtml",
+      "startProgressPercent": 0.14359,
+      "endProgressPercent": 0.148718
+    },
+    {
+      "id": "spine-item-029",
+      "title": "Chapter Two: Huzoor Is Perfect In Sublime Character And Religious And Worldly Virtues",
+      "href": "section-26.xhtml",
+      "startProgressPercent": 0.148718,
+      "endProgressPercent": 0.153846
+    },
+    {
+      "id": "spine-item-030",
+      "title": "First Section: Huzoor Gathered All Qualities",
+      "href": "section-27.xhtml",
+      "startProgressPercent": 0.153846,
+      "endProgressPercent": 0.158974
+    },
+    {
+      "id": "spine-item-031",
+      "title": "Second Section: His Blessed Appearance",
+      "href": "section-28.xhtml",
+      "startProgressPercent": 0.158974,
+      "endProgressPercent": 0.164103
+    },
+    {
+      "id": "spine-item-032",
+      "title": "Third Section: The Cleanliness And Purity Of Huzoor",
+      "href": "section-29.xhtml",
+      "startProgressPercent": 0.164103,
+      "endProgressPercent": 0.169231
+    },
+    {
+      "id": "spine-item-033",
+      "title": "Fourth Section: The Understanding, Intelligence, And Wisdom Of Huzoor",
+      "href": "section-30.xhtml",
+      "startProgressPercent": 0.169231,
+      "endProgressPercent": 0.174359
+    },
+    {
+      "id": "spine-item-034",
+      "title": "Fifth Section: The Eloquence And Expressiveness Of Huzoor",
+      "href": "section-31.xhtml",
+      "startProgressPercent": 0.174359,
+      "endProgressPercent": 0.179487
+    },
+    {
+      "id": "spine-item-035",
+      "title": "Sixth Section: The Nobility Of His Lineage, The Honor Of His City, And His Upbringing",
+      "href": "section-32.xhtml",
+      "startProgressPercent": 0.179487,
+      "endProgressPercent": 0.184615
+    },
+    {
+      "id": "spine-item-036",
+      "title": "Seventh Section: The First Type Of Life&apos;s Necessities",
+      "href": "section-33.xhtml",
+      "startProgressPercent": 0.184615,
+      "endProgressPercent": 0.189744
+    },
+    {
+      "id": "spine-item-037",
+      "title": "Eighth Section: The Second Type Of Life&apos;s Necessities",
+      "href": "section-34.xhtml",
+      "startProgressPercent": 0.189744,
+      "endProgressPercent": 0.194872
+    },
+    {
+      "id": "spine-item-038",
+      "title": "Ninth Section: Two Further Types",
+      "href": "section-35.xhtml",
+      "startProgressPercent": 0.194872,
+      "endProgressPercent": 0.2
+    },
+    {
+      "id": "spine-item-039",
+      "title": "Tenth Section: Further Qualities Of Huzoor",
+      "href": "section-36.xhtml",
+      "startProgressPercent": 0.2,
+      "endProgressPercent": 0.205128
+    },
+    {
+      "id": "spine-item-040",
+      "title": "Eleventh Section: Various Virtues Of Huzoor",
+      "href": "section-37.xhtml",
+      "startProgressPercent": 0.205128,
+      "endProgressPercent": 0.210256
+    },
+    {
+      "id": "spine-item-041",
+      "title": "Twelfth Section: The Forbearance And Patience Of Huzoor",
+      "href": "section-38.xhtml",
+      "startProgressPercent": 0.210256,
+      "endProgressPercent": 0.215385
+    },
+    {
+      "id": "spine-item-042",
+      "title": "Fifteenth Section: The Generosity And Open-Handedness Of Huzoor",
+      "href": "section-39.xhtml",
+      "startProgressPercent": 0.215385,
+      "endProgressPercent": 0.220513
+    },
+    {
+      "id": "spine-item-043",
+      "title": "Fourteenth Section: The Courage And Bravery Of Huzoor",
+      "href": "section-40.xhtml",
+      "startProgressPercent": 0.220513,
+      "endProgressPercent": 0.225641
+    },
+    {
+      "id": "spine-item-044",
+      "title": "Fifteenth Section: The Modesty And Overlooking Of Huzoor",
+      "href": "section-41.xhtml",
+      "startProgressPercent": 0.225641,
+      "endProgressPercent": 0.230769
+    },
+    {
+      "id": "spine-item-045",
+      "title": "Sixteenth Section: The Beautiful Etiquette, Social Conduct, And Character Of Huzoor",
+      "href": "section-42.xhtml",
+      "startProgressPercent": 0.230769,
+      "endProgressPercent": 0.235897
+    },
+    {
+      "id": "spine-item-046",
+      "title": "Seventeenth Section: The Compassion, Mercy, And Kindness Of Huzoor",
+      "href": "section-43.xhtml",
+      "startProgressPercent": 0.235897,
+      "endProgressPercent": 0.241026
+    },
+    {
+      "id": "spine-item-047",
+      "title": "Eighteenth Section: His Loyalty, Fulfillment Of Promises, And Joining Family Ties",
+      "href": "section-44.xhtml",
+      "startProgressPercent": 0.241026,
+      "endProgressPercent": 0.246154
+    },
+    {
+      "id": "spine-item-048",
+      "title": "Nineteenth Section: The Humility Of Huzoor",
+      "href": "section-45.xhtml",
+      "startProgressPercent": 0.246154,
+      "endProgressPercent": 0.251282
+    },
+    {
+      "id": "spine-item-049",
+      "title": "Twentieth Section: The Justice, Trustworthiness, Chastity, And Truthfulness Of Huzoor",
+      "href": "section-46.xhtml",
+      "startProgressPercent": 0.251282,
+      "endProgressPercent": 0.25641
+    },
+    {
+      "id": "spine-item-050",
+      "title": "Twenty-First Section: The Dignity, Silence, Noble Conduct, And Good Nature Of Huzoor",
+      "href": "section-47.xhtml",
+      "startProgressPercent": 0.25641,
+      "endProgressPercent": 0.261538
+    },
+    {
+      "id": "spine-item-051",
+      "title": "Twenty-Second Section: The Zuhd And Taqwa Of Huzoor",
+      "href": "section-48.xhtml",
+      "startProgressPercent": 0.261538,
+      "endProgressPercent": 0.266667
+    },
+    {
+      "id": "spine-item-052",
+      "title": "Twenty-Third Section: The Fear Of Allah, Worship, And Striving Of Huzoor",
+      "href": "section-49.xhtml",
+      "startProgressPercent": 0.266667,
+      "endProgressPercent": 0.271795
+    },
+    {
+      "id": "spine-item-053",
+      "title": "Twenty-Fourth Section: The Perfect Character And Qualities Of The Noble Prophets",
+      "href": "section-50.xhtml",
+      "startProgressPercent": 0.271795,
+      "endProgressPercent": 0.276923
+    },
+    {
+      "id": "spine-item-054",
+      "title": "Twenty-Fifth Section: The Blessed Habits Of Huzoor In Various Matters",
+      "href": "section-51.xhtml",
+      "startProgressPercent": 0.276923,
+      "endProgressPercent": 0.282051
+    },
+    {
+      "id": "spine-item-055",
+      "title": "Twenty-Sixth Section: On The Meanings Of Difficult Words In The Hadith",
+      "href": "section-52.xhtml",
+      "startProgressPercent": 0.282051,
+      "endProgressPercent": 0.287179
+    },
+    {
+      "id": "spine-item-056",
+      "title": "First Section: The Elevation Of The Mention Of Huzoor And The Blessing Of His Blessed Name",
+      "href": "section-53.xhtml",
+      "startProgressPercent": 0.287179,
+      "endProgressPercent": 0.292308
+    },
+    {
+      "id": "spine-item-057",
+      "title": "Second Section: The Virtues Granted To Huzoor On The Night Of Mi&apos;raj",
+      "href": "section-54.xhtml",
+      "startProgressPercent": 0.292308,
+      "endProgressPercent": 0.297436
+    },
+    {
+      "id": "spine-item-058",
+      "title": "Third Section: Was The Mi&apos;raj Bodily Or Spiritual?",
+      "href": "section-55.xhtml",
+      "startProgressPercent": 0.297436,
+      "endProgressPercent": 0.302564
+    },
+    {
+      "id": "spine-item-059",
+      "title": "Fourth Section: Refuting The Proofs For A Spiritual Mi&apos;raj",
+      "href": "section-56.xhtml",
+      "startProgressPercent": 0.302564,
+      "endProgressPercent": 0.307692
+    },
+    {
+      "id": "spine-item-060",
+      "title": "Fifth Section: Huzoor Seeing Allah &lt;sup&gt;عز وجل&lt;/sup&gt;",
+      "href": "section-57.xhtml",
+      "startProgressPercent": 0.307692,
+      "endProgressPercent": 0.312821
+    },
+    {
+      "id": "spine-item-061",
+      "title": "Sixth Section: Huzoor Conversing And Speaking With Allah During Mi&apos;raj",
+      "href": "section-58.xhtml",
+      "startProgressPercent": 0.312821,
+      "endProgressPercent": 0.317949
+    },
+    {
+      "id": "spine-item-062",
+      "title": "Seventh Section: The Nearness Of Huzoor During The Night Of Mi&apos;raj",
+      "href": "section-59.xhtml",
+      "startProgressPercent": 0.317949,
+      "endProgressPercent": 0.323077
+    },
+    {
+      "id": "spine-item-063",
+      "title": "Eighth Section: Huzoor On The Day Of Judgment And His Special Virtue",
+      "href": "section-60.xhtml",
+      "startProgressPercent": 0.323077,
+      "endProgressPercent": 0.328205
+    },
+    {
+      "id": "spine-item-064",
+      "title": "Ninth Section: The Love And Khullah Of Huzoor",
+      "href": "section-61.xhtml",
+      "startProgressPercent": 0.328205,
+      "endProgressPercent": 0.333333
+    },
+    {
+      "id": "spine-item-065",
+      "title": "Tenth Section: The Virtue, Intercession, And Praiseworthy Station Of Huzoor",
+      "href": "section-62.xhtml",
+      "startProgressPercent": 0.333333,
+      "endProgressPercent": 0.338462
+    },
+    {
+      "id": "spine-item-066",
+      "title": "Eleventh Section: The Greatness Of Huzoor Regarding Paradise And Kawthar",
+      "href": "section-63.xhtml",
+      "startProgressPercent": 0.338462,
+      "endProgressPercent": 0.34359
+    },
+    {
+      "id": "spine-item-067",
+      "title": "Twelfth Section: The Hadith In Which Giving Huzoor Superiority Over Other Prophets Was Prohibited",
+      "href": "section-64.xhtml",
+      "startProgressPercent": 0.34359,
+      "endProgressPercent": 0.348718
+    },
+    {
+      "id": "spine-item-068",
+      "title": "Thirteenth Section: The Blessed Names And Virtues Of Huzoor",
+      "href": "section-65.xhtml",
+      "startProgressPercent": 0.348718,
+      "endProgressPercent": 0.353846
+    },
+    {
+      "id": "spine-item-069",
+      "title": "Fourteenth Section: The Names Of Huzoor Along With The Names Of Allah",
+      "href": "section-66.xhtml",
+      "startProgressPercent": 0.353846,
+      "endProgressPercent": 0.358974
+    },
+    {
+      "id": "spine-item-070",
+      "title": "Fifteenth Section: An Explanation Of A Subtle Point",
+      "href": "section-67.xhtml",
+      "startProgressPercent": 0.358974,
+      "endProgressPercent": 0.364103
+    },
+    {
+      "id": "spine-item-071",
+      "title": "First Section: The Linguistic Meaning Of Prophethood",
+      "href": "section-68.xhtml",
+      "startProgressPercent": 0.364103,
+      "endProgressPercent": 0.369231
+    },
+    {
+      "id": "spine-item-072",
+      "title": "The Meaning Of Messengerhood",
+      "href": "section-69.xhtml",
+      "startProgressPercent": 0.369231,
+      "endProgressPercent": 0.374359
+    },
+    {
+      "id": "spine-item-073",
+      "title": "The Meaning Of Revelation",
+      "href": "section-70.xhtml",
+      "startProgressPercent": 0.374359,
+      "endProgressPercent": 0.379487
+    },
+    {
+      "id": "spine-item-074",
+      "title": "Second Section: On The Explanation Of Miracles",
+      "href": "section-71.xhtml",
+      "startProgressPercent": 0.379487,
+      "endProgressPercent": 0.384615
+    },
+    {
+      "id": "spine-item-075",
+      "title": "Third Section: The First Aspect Of The Qur&apos;an&apos;s Inimitability",
+      "href": "section-72.xhtml",
+      "startProgressPercent": 0.384615,
+      "endProgressPercent": 0.389744
+    },
+    {
+      "id": "spine-item-076",
+      "title": "Fourth Section: The Second Aspect Of The Qur&apos;an&apos;s Inimitability",
+      "href": "section-73.xhtml",
+      "startProgressPercent": 0.389744,
+      "endProgressPercent": 0.394872
+    },
+    {
+      "id": "spine-item-077",
+      "title": "Fifth Section: The Third Aspect Of The Qur&apos;an&apos;s Inimitability",
+      "href": "section-74.xhtml",
+      "startProgressPercent": 0.394872,
+      "endProgressPercent": 0.4
+    },
+    {
+      "id": "spine-item-078",
+      "title": "Sixth Section: The Fourth Aspect Of The Qur&apos;an&apos;s Inimitability",
+      "href": "section-75.xhtml",
+      "startProgressPercent": 0.4,
+      "endProgressPercent": 0.405128
+    },
+    {
+      "id": "spine-item-079",
+      "title": "Seventh Section: The Qur&apos;an&apos;s Inimitability By Rendering A People Unable",
+      "href": "section-76.xhtml",
+      "startProgressPercent": 0.405128,
+      "endProgressPercent": 0.410256
+    },
+    {
+      "id": "spine-item-080",
+      "title": "Eighth Section: The Qur&apos;an&apos;s Inimitability Through Awe And Majesty",
+      "href": "section-77.xhtml",
+      "startProgressPercent": 0.410256,
+      "endProgressPercent": 0.415385
+    },
+    {
+      "id": "spine-item-081",
+      "title": "Ninth Section: The Qur&apos;an Will Remain Forever",
+      "href": "section-78.xhtml",
+      "startProgressPercent": 0.415385,
+      "endProgressPercent": 0.420513
+    },
+    {
+      "id": "spine-item-082",
+      "title": "Tenth Section: Various Aspects Of The Qur&apos;an&apos;s Inimitability",
+      "href": "section-79.xhtml",
+      "startProgressPercent": 0.420513,
+      "endProgressPercent": 0.425641
+    },
+    {
+      "id": "spine-item-083",
+      "title": "Eleventh Section: The Miracle Of The Splitting Of The Moon And The Returning Of The Sun",
+      "href": "section-80.xhtml",
+      "startProgressPercent": 0.425641,
+      "endProgressPercent": 0.430769
+    },
+    {
+      "id": "spine-item-084",
+      "title": "Twelfth Section: Water Flowing From His Fingers And Increasing",
+      "href": "section-81.xhtml",
+      "startProgressPercent": 0.430769,
+      "endProgressPercent": 0.435897
+    },
+    {
+      "id": "spine-item-085",
+      "title": "Thirteenth Section: Further Miracles",
+      "href": "section-82.xhtml",
+      "startProgressPercent": 0.435897,
+      "endProgressPercent": 0.441026
+    },
+    {
+      "id": "spine-item-086",
+      "title": "Fourteenth Section: Increase In Food",
+      "href": "section-83.xhtml",
+      "startProgressPercent": 0.441026,
+      "endProgressPercent": 0.446154
+    },
+    {
+      "id": "spine-item-087",
+      "title": "Fifteenth Section: Trees Speaking, Bearing Witness, And Coming Running",
+      "href": "section-84.xhtml",
+      "startProgressPercent": 0.446154,
+      "endProgressPercent": 0.451282
+    },
+    {
+      "id": "spine-item-088",
+      "title": "Sixteenth Section: The Weeping Of The Date-Palm Trunk",
+      "href": "section-85.xhtml",
+      "startProgressPercent": 0.451282,
+      "endProgressPercent": 0.45641
+    },
+    {
+      "id": "spine-item-089",
+      "title": "Seventeenth Section: Miracles Related To Inanimate Things",
+      "href": "section-86.xhtml",
+      "startProgressPercent": 0.45641,
+      "endProgressPercent": 0.461538
+    },
+    {
+      "id": "spine-item-090",
+      "title": "Eighteenth Section: Miracles Related To Animals",
+      "href": "section-87.xhtml",
+      "startProgressPercent": 0.461538,
+      "endProgressPercent": 0.466667
+    },
+    {
+      "id": "spine-item-091",
+      "title": "Nineteenth Section: Reviving The Dead, Infants Speaking, And Their Testimony",
+      "href": "section-88.xhtml",
+      "startProgressPercent": 0.466667,
+      "endProgressPercent": 0.471795
+    },
+    {
+      "id": "spine-item-092",
+      "title": "Twentieth Section: Healing The Sick And Afflicted",
+      "href": "section-89.xhtml",
+      "startProgressPercent": 0.471795,
+      "endProgressPercent": 0.476923
+    },
+    {
+      "id": "spine-item-093",
+      "title": "Twenty-First Section: The Acceptance Of His Supplications",
+      "href": "section-90.xhtml",
+      "startProgressPercent": 0.476923,
+      "endProgressPercent": 0.482051
+    },
+    {
+      "id": "spine-item-094",
+      "title": "Twenty-Second Section: The Reality Of Whatever Touched Huzoor Being Changed",
+      "href": "section-91.xhtml",
+      "startProgressPercent": 0.482051,
+      "endProgressPercent": 0.487179
+    },
+    {
+      "id": "spine-item-095",
+      "title": "Twenty-Third Section: Huzoor Being Informed Of The Unseen",
+      "href": "section-92.xhtml",
+      "startProgressPercent": 0.487179,
+      "endProgressPercent": 0.492308
+    },
+    {
+      "id": "spine-item-096",
+      "title": "Twenty-Fourth Section: The Protection Of The Prophet",
+      "href": "section-93.xhtml",
+      "startProgressPercent": 0.492308,
+      "endProgressPercent": 0.497436
+    },
+    {
+      "id": "spine-item-097",
+      "title": "Twenty-Fifth Section: The Clear Miracles Of Huzoor",
+      "href": "section-94.xhtml",
+      "startProgressPercent": 0.497436,
+      "endProgressPercent": 0.502564
+    },
+    {
+      "id": "spine-item-098",
+      "title": "Twenty-Sixth Section: The Unseen Reports Told By Huzoor",
+      "href": "section-95.xhtml",
+      "startProgressPercent": 0.502564,
+      "endProgressPercent": 0.507692
+    },
+    {
+      "id": "spine-item-099",
+      "title": "Twenty-Seventh Section: Proofs And Signs Of Prophethood And Messengerhood",
+      "href": "section-96.xhtml",
+      "startProgressPercent": 0.507692,
+      "endProgressPercent": 0.512821
+    },
+    {
+      "id": "spine-item-100",
+      "title": "Twenty-Eighth Section: Miracles At The Time Of His Blessed Birth",
+      "href": "section-97.xhtml",
+      "startProgressPercent": 0.512821,
+      "endProgressPercent": 0.517949
+    },
+    {
+      "id": "spine-item-101",
+      "title": "Twenty-Ninth Section: The Miracle Remaining Until The Day Of Judgment",
+      "href": "section-98.xhtml",
+      "startProgressPercent": 0.517949,
+      "endProgressPercent": 0.523077
+    },
+    {
+      "id": "spine-item-102",
+      "title": "Which Rights Of Huzoor Are Obligatory Upon The Ummah?",
+      "href": "section-99.xhtml",
+      "startProgressPercent": 0.523077,
+      "endProgressPercent": 0.528205
+    },
+    {
+      "id": "spine-item-103",
+      "title": "Chapter One: Believing In Huzoor, Obeying Him, And Following His Sunnah",
+      "href": "section-100.xhtml",
+      "startProgressPercent": 0.528205,
+      "endProgressPercent": 0.533333
+    },
+    {
+      "id": "spine-item-104",
+      "title": "First Section: Believing In Huzoor, Obeying Him, And Following His Sunnah",
+      "href": "section-101.xhtml",
+      "startProgressPercent": 0.533333,
+      "endProgressPercent": 0.538462
+    },
+    {
+      "id": "spine-item-105",
+      "title": "Second Section: Proof From The Book And Sunnah That Following The Sunnah Is Wajib",
+      "href": "section-102.xhtml",
+      "startProgressPercent": 0.538462,
+      "endProgressPercent": 0.54359
+    },
+    {
+      "id": "spine-item-106",
+      "title": "Third Section: The Obligation Of Following The Sunnah According To The Righteous Predecessors",
+      "href": "section-103.xhtml",
+      "startProgressPercent": 0.54359,
+      "endProgressPercent": 0.548718
+    },
+    {
+      "id": "spine-item-107",
+      "title": "Fourth Section: Opposing The Sunnah Is A Cause Of Punishment In The Hereafter",
+      "href": "section-104.xhtml",
+      "startProgressPercent": 0.548718,
+      "endProgressPercent": 0.553846
+    },
+    {
+      "id": "spine-item-108",
+      "title": "First Section: The Reward For Loving Huzoor",
+      "href": "section-105.xhtml",
+      "startProgressPercent": 0.553846,
+      "endProgressPercent": 0.558974
+    },
+    {
+      "id": "spine-item-109",
+      "title": "Second Section: Statements Of The Righteous Predecessors About Loving Huzoor",
+      "href": "section-106.xhtml",
+      "startProgressPercent": 0.558974,
+      "endProgressPercent": 0.564103
+    },
+    {
+      "id": "spine-item-110",
+      "title": "Third Section: The Signs Of Loving Huzoor",
+      "href": "section-107.xhtml",
+      "startProgressPercent": 0.564103,
+      "endProgressPercent": 0.569231
+    },
+    {
+      "id": "spine-item-111",
+      "title": "Fourth Section: The Meaning And Reality Of Love",
+      "href": "section-108.xhtml",
+      "startProgressPercent": 0.569231,
+      "endProgressPercent": 0.574359
+    },
+    {
+      "id": "spine-item-112",
+      "title": "Fifth Section: Sincere Goodwill Toward Huzoor Is Wajib",
+      "href": "section-109.xhtml",
+      "startProgressPercent": 0.574359,
+      "endProgressPercent": 0.579487
+    },
+    {
+      "id": "spine-item-113",
+      "title": "First Section: The Practice Of The Companions In Reverence And Honor",
+      "href": "section-110.xhtml",
+      "startProgressPercent": 0.579487,
+      "endProgressPercent": 0.584615
+    },
+    {
+      "id": "spine-item-114",
+      "title": "Second Section: The Obligation Of Reverence And Honor After His Passing",
+      "href": "section-111.xhtml",
+      "startProgressPercent": 0.584615,
+      "endProgressPercent": 0.589744
+    },
+    {
+      "id": "spine-item-115",
+      "title": "Third Section: The Practice Of The Imams When Narrating Hadith",
+      "href": "section-112.xhtml",
+      "startProgressPercent": 0.589744,
+      "endProgressPercent": 0.594872
+    },
+    {
+      "id": "spine-item-116",
+      "title": "Fourth Section: Revering And Honoring The Ahl Al-Bayt And The Pure Wives",
+      "href": "section-113.xhtml",
+      "startProgressPercent": 0.594872,
+      "endProgressPercent": 0.6
+    },
+    {
+      "id": "spine-item-117",
+      "title": "Fifth Section: Honoring And Respecting The Companions",
+      "href": "section-114.xhtml",
+      "startProgressPercent": 0.6,
+      "endProgressPercent": 0.605128
+    },
+    {
+      "id": "spine-item-118",
+      "title": "Sixth Section: Revering The Blessed Relics And Sacred Places Of The Prophet",
+      "href": "section-115.xhtml",
+      "startProgressPercent": 0.605128,
+      "endProgressPercent": 0.610256
+    },
+    {
+      "id": "spine-item-119",
+      "title": "First Section: The Obligation Of Durood Shareef",
+      "href": "section-116.xhtml",
+      "startProgressPercent": 0.610256,
+      "endProgressPercent": 0.615385
+    },
+    {
+      "id": "spine-item-120",
+      "title": "Second Section: The Places Where Durood Is Recommended",
+      "href": "section-117.xhtml",
+      "startProgressPercent": 0.615385,
+      "endProgressPercent": 0.620513
+    },
+    {
+      "id": "spine-item-121",
+      "title": "Third Section: The Form And Words Of Durood Shareef",
+      "href": "section-118.xhtml",
+      "startProgressPercent": 0.620513,
+      "endProgressPercent": 0.625641
+    },
+    {
+      "id": "spine-item-122",
+      "title": "Fourth Section: The Virtue Of Durood And Salam",
+      "href": "section-119.xhtml",
+      "startProgressPercent": 0.625641,
+      "endProgressPercent": 0.630769
+    },
+    {
+      "id": "spine-item-123",
+      "title": "Fifth Section: Condemnation And Sin Of The One Who Does Not Send Durood And Salam",
+      "href": "section-120.xhtml",
+      "startProgressPercent": 0.630769,
+      "endProgressPercent": 0.635897
+    },
+    {
+      "id": "spine-item-124",
+      "title": "Sixth Section: Durood Is Presented Especially To Huzoor",
+      "href": "section-121.xhtml",
+      "startProgressPercent": 0.635897,
+      "endProgressPercent": 0.641026
+    },
+    {
+      "id": "spine-item-125",
+      "title": "Seventh Section: The Issue Of Sending Durood Upon Non-Prophets And All Prophets",
+      "href": "section-122.xhtml",
+      "startProgressPercent": 0.641026,
+      "endProgressPercent": 0.646154
+    },
+    {
+      "id": "spine-item-126",
+      "title": "Eighth Section: The Ruling Of Visiting The Luminous Grave And The Virtue Of The Visitor",
+      "href": "section-123.xhtml",
+      "startProgressPercent": 0.646154,
+      "endProgressPercent": 0.651282
+    },
+    {
+      "id": "spine-item-127",
+      "title": "Ninth Section: The Virtue And Etiquette Of Masjid Nabawi Shareef",
+      "href": "section-124.xhtml",
+      "startProgressPercent": 0.651282,
+      "endProgressPercent": 0.65641
+    },
+    {
+      "id": "spine-item-128",
+      "title": "Matters That Are Possible Or Impossible Regarding Huzoor And The Explanation Of Human States",
+      "href": "section-125.xhtml",
+      "startProgressPercent": 0.65641,
+      "endProgressPercent": 0.661538
+    },
+    {
+      "id": "spine-item-129",
+      "title": "Chapter One: Religious Matters And The Infallibility Of The Prophets",
+      "href": "section-126.xhtml",
+      "startProgressPercent": 0.661538,
+      "endProgressPercent": 0.666667
+    },
+    {
+      "id": "spine-item-130",
+      "title": "First Section: The Firmness Of The Blessed Heart Of Huzoor",
+      "href": "section-127.xhtml",
+      "startProgressPercent": 0.666667,
+      "endProgressPercent": 0.671795
+    },
+    {
+      "id": "spine-item-131",
+      "title": "The Pause In Revelation",
+      "href": "section-128.xhtml",
+      "startProgressPercent": 0.671795,
+      "endProgressPercent": 0.676923
+    },
+    {
+      "id": "spine-item-132",
+      "title": "Second Section: The Infallibility Of The Prophets Before The Manifestation Of Prophethood",
+      "href": "section-129.xhtml",
+      "startProgressPercent": 0.676923,
+      "endProgressPercent": 0.682051
+    },
+    {
+      "id": "spine-item-133",
+      "title": "Third Section: The Prophets Were Firm In Tawhid, Iman, And Revelation",
+      "href": "section-130.xhtml",
+      "startProgressPercent": 0.682051,
+      "endProgressPercent": 0.687179
+    },
+    {
+      "id": "spine-item-134",
+      "title": "Fourth Section: Huzoor Was Protected From The Effect Of Shaytan And From Every Evil And Corruption",
+      "href": "section-131.xhtml",
+      "startProgressPercent": 0.687179,
+      "endProgressPercent": 0.692308
+    },
+    {
+      "id": "spine-item-135",
+      "title": "Fifth Section: The Infallibility Of The Statements Of Huzoor",
+      "href": "section-132.xhtml",
+      "startProgressPercent": 0.692308,
+      "endProgressPercent": 0.697436
+    },
+    {
+      "id": "spine-item-136",
+      "title": "Sixth Section: Answers To Objections",
+      "href": "section-133.xhtml",
+      "startProgressPercent": 0.697436,
+      "endProgressPercent": 0.702564
+    },
+    {
+      "id": "spine-item-137",
+      "title": "Seventh Section: Truthfulness In Worldly Matters And Human States",
+      "href": "section-134.xhtml",
+      "startProgressPercent": 0.702564,
+      "endProgressPercent": 0.707692
+    },
+    {
+      "id": "spine-item-138",
+      "title": "Eighth Section: Forgetfulness In Hadith",
+      "href": "section-135.xhtml",
+      "startProgressPercent": 0.707692,
+      "endProgressPercent": 0.712821
+    },
+    {
+      "id": "spine-item-139",
+      "title": "Ninth Section: The Infallibility Of The Limbs And Bodily Actions Of Huzoor",
+      "href": "section-136.xhtml",
+      "startProgressPercent": 0.712821,
+      "endProgressPercent": 0.717949
+    },
+    {
+      "id": "spine-item-140",
+      "title": "Tenth Section: Infallibility Before The Manifestation Of Prophethood",
+      "href": "section-137.xhtml",
+      "startProgressPercent": 0.717949,
+      "endProgressPercent": 0.723077
+    },
+    {
+      "id": "spine-item-141",
+      "title": "Eleventh Section: Actions That Occurred Without Intention Or Choice",
+      "href": "section-138.xhtml",
+      "startProgressPercent": 0.723077,
+      "endProgressPercent": 0.728205
+    },
+    {
+      "id": "spine-item-142",
+      "title": "Twelfth Section: A Complete Discussion On Hadith Of Forgetfulness",
+      "href": "section-139.xhtml",
+      "startProgressPercent": 0.728205,
+      "endProgressPercent": 0.733333
+    },
+    {
+      "id": "spine-item-143",
+      "title": "Thirteenth Section: The Prophets Are Protected Even From Committing Minor Sins",
+      "href": "section-140.xhtml",
+      "startProgressPercent": 0.733333,
+      "endProgressPercent": 0.738462
+    },
+    {
+      "id": "spine-item-144",
+      "title": "Fourteenth Section: Removing The Difficulty Regarding Sin Being Attributed To The Prophets",
+      "href": "section-141.xhtml",
+      "startProgressPercent": 0.738462,
+      "endProgressPercent": 0.74359
+    },
+    {
+      "id": "spine-item-145",
+      "title": "Fifteenth Section: Warnings Regarding The Rights Of Messengerhood And Prophethood",
+      "href": "section-142.xhtml",
+      "startProgressPercent": 0.74359,
+      "endProgressPercent": 0.748718
+    },
+    {
+      "id": "spine-item-146",
+      "title": "Sixteenth Section: The Infallibility Of The Angels",
+      "href": "section-143.xhtml",
+      "startProgressPercent": 0.748718,
+      "endProgressPercent": 0.753846
+    },
+    {
+      "id": "spine-item-147",
+      "title": "Human Conditions",
+      "href": "section-144.xhtml",
+      "startProgressPercent": 0.753846,
+      "endProgressPercent": 0.758974
+    },
+    {
+      "id": "spine-item-148",
+      "title": "First Section: The Effect Of Magic Upon Huzoor",
+      "href": "section-145.xhtml",
+      "startProgressPercent": 0.758974,
+      "endProgressPercent": 0.764103
+    },
+    {
+      "id": "spine-item-149",
+      "title": "Second Section: The State Of Huzoor In Worldly Matters",
+      "href": "section-146.xhtml",
+      "startProgressPercent": 0.764103,
+      "endProgressPercent": 0.769231
+    },
+    {
+      "id": "spine-item-150",
+      "title": "Third Section: Human Judgments And Belief",
+      "href": "section-147.xhtml",
+      "startProgressPercent": 0.769231,
+      "endProgressPercent": 0.774359
+    },
+    {
+      "id": "spine-item-151",
+      "title": "Fourth Section: The Worldly Statements Of Huzoor",
+      "href": "section-148.xhtml",
+      "startProgressPercent": 0.774359,
+      "endProgressPercent": 0.779487
+    },
+    {
+      "id": "spine-item-152",
+      "title": "Fifth Section: Explanation Of The Hadith Of The Written Document",
+      "href": "section-149.xhtml",
+      "startProgressPercent": 0.779487,
+      "endProgressPercent": 0.784615
+    },
+    {
+      "id": "spine-item-153",
+      "title": "Sixth Section: Explanations Of Words Of Supplication Against Others",
+      "href": "section-150.xhtml",
+      "startProgressPercent": 0.784615,
+      "endProgressPercent": 0.789744
+    },
+    {
+      "id": "spine-item-154",
+      "title": "Seventh Section: The Worldly Actions Of Huzoor",
+      "href": "section-151.xhtml",
+      "startProgressPercent": 0.789744,
+      "endProgressPercent": 0.794872
+    },
+    {
+      "id": "spine-item-155",
+      "title": "Eighth Section: The Wisdom In The Prophets And Messengers Being Tested",
+      "href": "section-152.xhtml",
+      "startProgressPercent": 0.794872,
+      "endProgressPercent": 0.8
+    },
+    {
+      "id": "spine-item-156",
+      "title": "The Fourth Part",
+      "href": "section-153.xhtml",
+      "startProgressPercent": 0.8,
+      "endProgressPercent": 0.805128
+    },
+    {
+      "id": "spine-item-157",
+      "title": "The First Chapter: Words By Which Insult And Disrespect Occur",
+      "href": "section-154.xhtml",
+      "startProgressPercent": 0.805128,
+      "endProgressPercent": 0.810256
+    },
+    {
+      "id": "spine-item-158",
+      "title": "First Section: The Proofs For The Obligation Of Killing",
+      "href": "section-155.xhtml",
+      "startProgressPercent": 0.810256,
+      "endProgressPercent": 0.815385
+    },
+    {
+      "id": "spine-item-159",
+      "title": "Second Section: The Wisdom In Not Killing Some Jews And Hypocrites",
+      "href": "section-156.xhtml",
+      "startProgressPercent": 0.815385,
+      "endProgressPercent": 0.820513
+    },
+    {
+      "id": "spine-item-160",
+      "title": "Third Section: The Ruling Regarding One Who Insults Unknowingly",
+      "href": "section-157.xhtml",
+      "startProgressPercent": 0.820513,
+      "endProgressPercent": 0.825641
+    },
+    {
+      "id": "spine-item-161",
+      "title": "Fourth Section: The Ruling Regarding Rejecting Prophetic Statements",
+      "href": "section-158.xhtml",
+      "startProgressPercent": 0.825641,
+      "endProgressPercent": 0.830769
+    },
+    {
+      "id": "spine-item-162",
+      "title": "Fifth Section: The Ruling Regarding Ambiguous And Possible Statements",
+      "href": "section-159.xhtml",
+      "startProgressPercent": 0.830769,
+      "endProgressPercent": 0.835897
+    },
+    {
+      "id": "spine-item-163",
+      "title": "Sixth Section: The Ruling Regarding Abuse By Examples",
+      "href": "section-160.xhtml",
+      "startProgressPercent": 0.835897,
+      "endProgressPercent": 0.841026
+    },
+    {
+      "id": "spine-item-164",
+      "title": "Seventh Section: The Ruling Regarding Quoting Kufr As Narration",
+      "href": "section-161.xhtml",
+      "startProgressPercent": 0.841026,
+      "endProgressPercent": 0.846154
+    },
+    {
+      "id": "spine-item-165",
+      "title": "Eighth Section: The Ruling Regarding Mentioning Various Matters",
+      "href": "section-162.xhtml",
+      "startProgressPercent": 0.846154,
+      "endProgressPercent": 0.851282
+    },
+    {
+      "id": "spine-item-166",
+      "title": "Ninth Section: Warnings For Speakers",
+      "href": "section-163.xhtml",
+      "startProgressPercent": 0.851282,
+      "endProgressPercent": 0.85641
+    },
+    {
+      "id": "spine-item-167",
+      "title": "First Section: The Duration And Manner Of Repentance",
+      "href": "section-164.xhtml",
+      "startProgressPercent": 0.85641,
+      "endProgressPercent": 0.861538
+    },
+    {
+      "id": "spine-item-168",
+      "title": "Second Section: The Ruling When Testimony Is Incomplete",
+      "href": "section-165.xhtml",
+      "startProgressPercent": 0.861538,
+      "endProgressPercent": 0.866667
+    },
+    {
+      "id": "spine-item-169",
+      "title": "Third Section: The Ruling When A Dhimmi Commits Abuse",
+      "href": "section-166.xhtml",
+      "startProgressPercent": 0.866667,
+      "endProgressPercent": 0.871795
+    },
+    {
+      "id": "spine-item-170",
+      "title": "Fourth Section: The Inheritance, Washing, And Funeral Prayer Of One Who Insults The Prophet",
+      "href": "section-167.xhtml",
+      "startProgressPercent": 0.871795,
+      "endProgressPercent": 0.876923
+    },
+    {
+      "id": "spine-item-171",
+      "title": "First Section: The Ruling Regarding Words Against Divine Majesty",
+      "href": "section-168.xhtml",
+      "startProgressPercent": 0.876923,
+      "endProgressPercent": 0.882051
+    },
+    {
+      "id": "spine-item-172",
+      "title": "Second Section: The Verified Position On Declaring Those Who Interpret Incorrectly As Kafir",
+      "href": "section-169.xhtml",
+      "startProgressPercent": 0.882051,
+      "endProgressPercent": 0.887179
+    },
+    {
+      "id": "spine-item-173",
+      "title": "Third Section: Which Statements Constitute Kufr And Which Do Not",
+      "href": "section-170.xhtml",
+      "startProgressPercent": 0.887179,
+      "endProgressPercent": 0.892308
+    },
+    {
+      "id": "spine-item-174",
+      "title": "Fourth Section: If A Dhimmi Abuses Allah",
+      "href": "section-171.xhtml",
+      "startProgressPercent": 0.892308,
+      "endProgressPercent": 0.897436
+    },
+    {
+      "id": "spine-item-175",
+      "title": "Fifth Section: The Ruling Regarding The Slanderer And Liar",
+      "href": "section-172.xhtml",
+      "startProgressPercent": 0.897436,
+      "endProgressPercent": 0.902564
+    },
+    {
+      "id": "spine-item-176",
+      "title": "Sixth Section: What Is The Ruling When A Word Of Kufr Escapes Involuntarily?",
+      "href": "section-173.xhtml",
+      "startProgressPercent": 0.902564,
+      "endProgressPercent": 0.907692
+    },
+    {
+      "id": "spine-item-177",
+      "title": "Seventh Section: The Ruling Regarding One Who Insults Prophets And Angels",
+      "href": "section-174.xhtml",
+      "startProgressPercent": 0.907692,
+      "endProgressPercent": 0.912821
+    },
+    {
+      "id": "spine-item-178",
+      "title": "Eighth Section: The Ruling Regarding Insulting The Qur&apos;an",
+      "href": "section-175.xhtml",
+      "startProgressPercent": 0.912821,
+      "endProgressPercent": 0.917949
+    },
+    {
+      "id": "spine-item-179",
+      "title": "Ninth Section: The Ruling Regarding Abusing The Ahl Al-Bayt, The Pure Wives, And The Companions",
+      "href": "section-176.xhtml",
+      "startProgressPercent": 0.917949,
+      "endProgressPercent": 0.923077
+    },
+    {
+      "id": "spine-item-180",
+      "title": "Conclusion",
+      "href": "section-177.xhtml",
+      "startProgressPercent": 0.923077,
+      "endProgressPercent": 0.928205
+    },
+    {
+      "id": "spine-item-181",
+      "title": "Honorifics And Conventions",
+      "href": "section-178.xhtml",
+      "startProgressPercent": 0.928205,
+      "endProgressPercent": 0.933333
+    },
+    {
+      "id": "spine-item-182",
+      "title": "Islamic Concepts And Terms",
+      "href": "section-179.xhtml",
+      "startProgressPercent": 0.933333,
+      "endProgressPercent": 0.938462
+    },
+    {
+      "id": "spine-item-183",
+      "title": "Legal And Jurisprudential Terms",
+      "href": "section-180.xhtml",
+      "startProgressPercent": 0.938462,
+      "endProgressPercent": 0.94359
+    },
+    {
+      "id": "spine-item-184",
+      "title": "Worship And Rituals",
+      "href": "section-181.xhtml",
+      "startProgressPercent": 0.94359,
+      "endProgressPercent": 0.948718
+    },
+    {
+      "id": "spine-item-185",
+      "title": "Eschatology And The Hereafter",
+      "href": "section-182.xhtml",
+      "startProgressPercent": 0.948718,
+      "endProgressPercent": 0.953846
+    },
+    {
+      "id": "spine-item-186",
+      "title": "Sects And Schools",
+      "href": "section-183.xhtml",
+      "startProgressPercent": 0.953846,
+      "endProgressPercent": 0.958974
+    },
+    {
+      "id": "spine-item-187",
+      "title": "Books And Scripture",
+      "href": "section-184.xhtml",
+      "startProgressPercent": 0.958974,
+      "endProgressPercent": 0.964103
+    },
+    {
+      "id": "spine-item-188",
+      "title": "Persons",
+      "href": "section-185.xhtml",
+      "startProgressPercent": 0.964103,
+      "endProgressPercent": 0.969231
+    },
+    {
+      "id": "spine-item-189",
+      "title": "Prophetic Miracles",
+      "href": "section-186.xhtml",
+      "startProgressPercent": 0.969231,
+      "endProgressPercent": 0.974359
+    },
+    {
+      "id": "spine-item-190",
+      "title": "Key Theological Topics",
+      "href": "section-187.xhtml",
+      "startProgressPercent": 0.974359,
+      "endProgressPercent": 0.979487
+    },
+    {
+      "id": "spine-item-191",
+      "title": "Legal Topics",
+      "href": "section-188.xhtml",
+      "startProgressPercent": 0.979487,
+      "endProgressPercent": 0.984615
+    },
+    {
+      "id": "spine-item-192",
+      "title": "Qur&apos;anic Verses Cited",
+      "href": "section-189.xhtml",
+      "startProgressPercent": 0.984615,
+      "endProgressPercent": 0.989744
+    },
+    {
+      "id": "spine-item-193",
+      "title": "Hadith Narrators Frequently Cited",
+      "href": "section-190.xhtml",
+      "startProgressPercent": 0.989744,
+      "endProgressPercent": 0.994872
+    },
+    {
+      "id": "spine-item-194",
+      "title": "Places",
+      "href": "section-191.xhtml",
+      "startProgressPercent": 0.994872,
+      "endProgressPercent": 1.0
+    }
+  ]
+}
