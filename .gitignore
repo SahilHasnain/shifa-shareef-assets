@@ -5,3 +5,5 @@ Thumbs.db
 # optional local scripts or temp output
 tmp/
 cache/
+config.bat
+node_modules
